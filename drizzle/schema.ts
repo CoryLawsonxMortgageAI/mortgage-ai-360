@@ -86,9 +86,10 @@ export type InsertDocument = typeof documents.$inferInsert;
  */
 export const incomeCalculations = mysqlTable("incomeCalculations", {
   id: int("id").autoincrement().primaryKey(),
+  reportId: varchar("reportId", { length: 20 }).notNull().unique(), // Unique report ID
   loanId: int("loanId").notNull(),
   userId: int("userId").notNull(),
-  calculationType: varchar("calculationType", { length: 100 }).notNull(),
+  loanType: mysqlEnum("loanType", ["FHA", "VA", "USDA", "Conventional"]).notNull(),
   baseIncome: int("baseIncome"),
   overtimeIncome: int("overtimeIncome"),
   bonusIncome: int("bonusIncome"),
@@ -96,13 +97,16 @@ export const incomeCalculations = mysqlTable("incomeCalculations", {
   rentalIncome: int("rentalIncome"),
   businessIncome: int("businessIncome"),
   otherIncome: int("otherIncome"),
-  totalQualifiedIncome: int("totalQualifiedIncome").notNull(),
   monthlyDebt: int("monthlyDebt"),
+  qualifiedIncome: int("qualifiedIncome"),
   frontEndRatio: varchar("frontEndRatio", { length: 10 }),
   backEndRatio: varchar("backEndRatio", { length: 10 }),
-  guidelineUsed: varchar("guidelineUsed", { length: 50 }).notNull(),
-  aiAnalysis: text("aiAnalysis"),
+  riskLevel: varchar("riskLevel", { length: 20 }),
+  analysis: text("analysis"),
   warnings: text("warnings"),
+  missingDocuments: text("missingDocuments"),
+  guidelineCitations: text("guidelineCitations"), // JSON array of citations
+  documentsReviewed: text("documentsReviewed"), // JSON array of document names
   createdAt: timestamp("createdAt").defaultNow().notNull(),
 });
 

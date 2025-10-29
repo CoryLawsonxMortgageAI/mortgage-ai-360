@@ -1,0 +1,8 @@
+{
+  "query": "\nALTER TABLE incomeCalculations \nADD COLUMN reportId VARCHAR(20) UNIQUE,\nADD COLUMN guidelineCitations TEXT,\nADD COLUMN documentsReviewed TEXT;\n",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 4MzpgAwHjXaMjvK.375da6f03d6d --database NtEsSa5PhcYK6MFuSjYQED --execute \nALTER TABLE incomeCalculations \nADD COLUMN reportId VARCHAR(20) UNIQUE,\nADD COLUMN guidelineCitations TEXT,\nADD COLUMN documentsReviewed TEXT;\n",
+  "returncode": 1,
+  "logs": [
+    "ERROR 8200 (HY000) at line 2: unsupported add column 'reportid' constraint UNIQUE KEY when altering 'NtEsSa5PhcYK6MFuSjYQED.incomeCalculations'"
+  ]
+}

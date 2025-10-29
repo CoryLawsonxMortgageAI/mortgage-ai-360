@@ -86,3 +86,35 @@
 - [ ] User guide
 - [ ] Deployment instructions
 - [ ] Scraper maintenance guide
+
+## New Feature Requests (User Requested)
+
+### Document Upload & Multi-Guideline Calculation
+- [x] Add drag-and-drop document upload interface to calculator
+- [x] Implement automatic income extraction from uploaded documents (W2s, paystubs, tax returns, bank statements)
+- [x] Calculate income for ALL loan types simultaneously (FHA, VA, USDA, Conventional Fannie Mae, Freddie Mac)
+- [x] Generate unique report ID for each calculation
+- [x] Display side-by-side comparison of income calculations for all 5 loan types
+- [x] Include guideline citations for each calculation showing which specific guideline was used
+- [x] Show document sources reviewed for each calculation
+- [x] Allow loan officer to select best option for client
+- [ ] Export comparison report with all calculations and citations (PDF export)
+
+
+## Ocrolus-Style Professional Interface (User Requested)
+
+- [x] Rebuild interface to match Ocrolus.com/mortgage professional dark theme design
+- [x] Implement UPLOAD button with file picker (professional alternative to drag-drop)
+- [x] Add document list with file preview and sizes
+- [x] Create dark-themed dashboard with sidebar navigation
+- [x] Display line-item income extraction from tax forms (Form 1120)
+- [x] Implement year-over-year comparison tables (2024 vs 2023)
+- [x] Add lock/unlock functionality for data verification
+- [x] Create configuration panel with calculation settings
+- [x] Show recommended calculation based on Fannie Mae guidelines
+- [x] Display liquidity ratios (current ratio, quick ratio)
+- [x] Add insights panel with discrepancy detection
+- [x] Implement Ocrolus-style results visualization with multi-guideline comparison
+- [x] Add professional tabs for different income types (Summary, Wage earner, Self-employed, Rental, Other)
+- [ ] Add real-time OCR document processing (requires OCR API integration)
+- [ ] Add document confidence scores from OCR
