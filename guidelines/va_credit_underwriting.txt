@@ -1,0 +1,2135 @@
+
+--- PAGE 1 ---
+4-1CHAPTER 4: CREDIT UNDERWRITING
+Overview
+Topic Title Page
+1 General Underwriting Information 4-2
+2 Income – Required Documentation and Analysis 4-5
+3 Income Taxes and Other Deductions 4-22
+4 Assets and Closing Requirements 4-24
+5 Debts and Obligations 4-26
+6 Debts Owed to the Federal Government 4-31
+7 Credit History – Required Documentation and Analysis 4-35
+8 Automated Underwriting Cases (AUS) 4-41
+9 How to Complete VA Form 26 -6393, Loan Analysis 4-48
+10 How to Analyze the Information on VA Form 26 -6393, Loan Analysis 4-53
+
+--- PAGE 2 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-2Topic 1: General Underwriting Information
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Unde
+rwriting Information  
+VA Underwriting Standards require lenders to always utilize the following guidance when 
+underwriting VA- guaranteed loans:
+Lenders are encouraged to make VA loans to all qualified Veterans who apply. VA’s 
+underwriting standards are intended to provide guidelines for underwriters. Decisions must 
+be based on sound application of the standards, and underwriters are expected to use good 
+judgment
+ and flexibility in applying underwriting guidelines. Not all possible circumstances 
+are addressed  therefore, underwriters must apply reasonable judgment and flexib ilit y in 
+administering this important Veterans’ benefit.
+b.Basic Requirements  
+By law, VA may only guarantee a loan when it is possible to determine that the Veteran is a 
+satisfactory credit risk, and has present or verified anticipated income that bears a pr oper 
+relation to the anticipated terms of repayment.
+VA’s underwriting standards are incorporated into VA regulations at 38 C.F.R. 36.4340 and 
+explained in this chapter. This chapter addresses the procedures for verifications and analysis 
+involved in underwriting a VA -guara nteed loan. In the event the lender fails to perform their 
+responsibilities, VA may take administrative actions including removal of authority to 
+underwrite and close VA loans.
+c.Lender’s Responsibility  
+Lenders are responsible for:
+·developing  all credit  information,
+·properly obtaining all required  verifications  and the credit  report,
+·ensuring the accuracy  of all information  on which the loan decision is based,
+·complying with the law and regulations governing VA’s  underwriting standards, and 
+with VA’s underwriting policies, procedures, and guidelines, and certifying as to 
+compliance with all of the above.
+Continued on next page
+
+--- PAGE 3 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-3Topic 1: General Underwriting Information, continued
+d.Lender’s Procedures  
+Digital signatures can be accepted as an original signature or wet signature as defined by the 
+Electronic Signatures in Global and National Commerce Act, commonly referred to as the E -
+sign Act.
+The procedures on the table below address only the credit underwriting of the loan. Chapter 5 
+of this handbook provides all procedures that must be completed when making a VA loan.
+Table 1: Lender’s Credit Underwriting Procedures
+Step Action
+1 Initiate the VA and Credit Alert Interactive Voice Response System  (CAIVRS) 
+inqui ries described in Topic 4, Subsection c of this chapter.
+2 Obtain all necessary verifications.
+The borrower’s authorization can be obtained separately for the lender’s required 
+verifications, or on one blanket authorization form.
+The Certificate of Eligibility (COE) obtained from WebLGY provides verification of 
+the amount of the Veteran’s available entitlement, verification of exempt/non -exempt 
+from the VA Funding Fee, and the amount of VA monthly service connected disability 
+compe nsation. Order the COE before ordering the VA appraisal.
+The tri -merged credit report and verifications can be ordered by the lender or its agent 
+or a party designated by the lender to perform that function. However, these documents 
+must always be delivere d by the credit reporting agency or verifying party directly to 
+the lender or its agent, and never to another party. VA only permits the Veteran to pay 
+for the credit report invoiced amount, not any additional costs that the lender may incur 
+through other parties for obtaining the credit report.
+3 Complete VA Form 26 -6393 , Loan Analysis , in conjunction with a careful review of the 
+loan application and supportin g documentation. Provide any explanations in Item 47 - 
+Remarks.
+The form is not required for Interest Rate Reduction Refinancing Loans (IRRRL) except 
+IRRRLs to refinance delinquent VA loans.
+4 Indicate the loan decision in Item 51 of the VA Form 26 -6393 , Loan Analysis , after 
+ensuring that the treatment of income, debts, and credit is compliant with VA 
+underwriting standards.
+Continued on next page
+
+--- PAGE 4 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-4Topic 1: General Underwriting Information, continued
+e.Underwriting Special Types of Loans  
+The underwriting standards and procedures explained in this chapter generally apply to 
+purchase and regular “cash -out” refinance loans. However, some special underwriting 
+considerations also apply and can be found in Chapter 7 of this handbook.
+f.Refinancing Loans  
+The underwriting standards detailed in this chapter apply to purchases and regular “cash- out” 
+refinances. IRRRLs generally do not require any underwrit ing unless the loan is delinquent. 
+IRRRLs made to refinance VA loans 30 days or more past due must be submitted to VA for 
+prior approval underwriting. The underwriter must have concluded that:
+·the circumstances  that caused the delinquency have  been  correct ed, and
+·the Veteran  can successfully  maintain  the new loan.
+·Refer to Chapter 6 of this handbook for details on all types of refinancing loans.
+
+--- PAGE 5 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-5Topic 2: Income – Required Documentation and Analysis
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Un
+derwriter’s Objectives  
+It is the underwriter’s objective to identify and verify income available to meet:
+·the mortgage  payment,
+·other  shelter  expenses,
+·de
+bts and obligations, and
+·family living expenses.
+b.Effective Income  
+Income is considered effective when it is determined to be verifiable, stable and reliable, and 
+anticipated to continue for the foreseeable future. Income analysis is not an exact science. It 
+requires the lender to underwrite eac h loan on a case-by-case basis, using good judgement 
+and flexibility when warranted.
+To determine whether income is stable and reliable, the probability of continued employment 
+must be determined through examination of the:
+·borrower’s  past employment  recor d,
+·borrower’s  training, education, and qualifications  for his or her  current position, and/or
+·type of employment.
+·Only verified income can be considered in the repayment calculation.
+c.Spousal Income  
+Verify and treat the income of a spouse who will be contra ctually obligated on the loan the 
+same as you would the income of a Veteran borrower that will be obligated on the loan. 
+However, to ensure compliance with the Equal Credit Opportunity Act (ECOA), do not ask 
+questions about the income of the borrower’s spouse unless the:
+·spouse will be contractually  liable,
+·borrower  is relying on the spouse’s  income  to qualify,
+·borrower  is relying on alimony, child  support, or separate  maintenance payments from 
+the spouse or former spouse, or
+·borrower  resides and/or the property is  in a community property state.
+In community property states, information concerning a spouse may be requested and 
+considered in the same manner as for the borrower, even if the spouse will not be 
+contractually obligated on the loan. See Topic 5, subsection a, of this chapter for additional 
+guidelines for community property states when considering a spouse’s debts and credit 
+history.
+The non -purchasing spouse’s (NPS) credit history does not need to be considered; however, 
+the NPS’  liabilities  must be considered to determine  the extent of the household liabilities.
+Continued on next page
+
+--- PAGE 6 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-6Topic 2 : Income – Required Documentation and Analysis, continued
+d.ECOA Considerations  
+Always inform the borrower (and spouse, if applicable) that they do not have to divulge 
+information on the receipt of child support, alimony, or separate maintenance. However, for 
+this income to be considered in the loan analysis, it must be divulged and verified.
+Income cannot be discounted because of sex, marital status, age , race, or other prohibited 
+bases under ECOA.
+e.Income from Non -Military Employment  
+Verify a minimum of 2 years of employment. Generally, in the borrower’s current position, 2 
+years of employment is a positive indicator of continued employment.
+If the borrow er has been employed by the present employer less than 2 years:
+·verify  prior  employment, plus present  employment  covering a total of 2 years, or
+·provide an explanation of why 2 years  of employment  could not be verified,
+·compare any different types of employment verifications obtained (such as Verification  
+of Employment (VOE),  paystub(s), W2s, and tax returns) for consistency, and
+·clarify  any substantial  differences  in the data that would have  a bearing on the 
+qualification of the borrower(s).
+Use of Employment Verification  Services
+Lenders may use any employment verification service that provides the same information as 
+the “full” verification generated through the “Work Number” for all applicants. Generally, 
+this will include the following informatio n:
+·the current  date,
+·employer name  and address,
+·Veteran’s  full legal  name, social  security  number (complete  or truncated) and job title,
+·employment  status  (Active  or Inactive),
+·length of employment and start date,
+·salary  rate and pay frequency,
+·average  hours per pay period,
+·summary  of year  to date information  including base pay, overtime, commissions and 
+bonuses, and reference number  for the verification.
+A current paystub is not required with an automated employment verification service.
+Additionally, any VA Form 26 -8497, Request for Verification of Employment (VOE) may 
+be an original, faxed, or emailed copy of the original. Previously, VA required an original 
+VA Form 26-8497. The requirements for obtaining a paystub have not changed. Hence, the 
+paystub may be an original or a copy certified by the lender to be a true copy of the original.
+The lender may not charge a fee to obtain the employment verification information .
+Continued on next page
+
+--- PAGE 7 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-7Topic 2 : Income – Required Documentation and Analysis, continued
+e.Income from Non -Military Employment, continued  
+Verification with VA Standard Documentation
+Acceptable verification consists of VA Form 26-8497 , Request for Verification of 
+Employment (VOE) or any format which furnishes the same information as VA Form 26-
+8497, plus:
+·paystub(s)  covering the most  recent 30-day period  with year-to-date information, if the 
+employer normally provides a pay stub(s) to the borrower.
+·if the employer does not indicate the probability of continued employment on the VOE, 
+the lender is not required to request anything additional on that subject.
+The VOE and paystub(s) must be no more than 120 days old (180 days for new construction) 
+from the closing date.
+·For loans closed automatically,  the date of the VOE and pay stub(s) must  be within  120 
+days of the date the note is signed (180 days for new construction) from the closing 
+date.
+·For prior  approval loans, the date of the VOE and paystub(s)  must  be within  120 days 
+of the date the application  is received  by VA (180 da ys for new construction) from the 
+closing date.
+The VOE must be an original document or an electronic copy. The paystub(s) may be an 
+original, electronic, or a copy certified by the lender to be a true copy of the original 
+document.
+Additional documentation for a borrower(s) employed in building trades or other seasonal or 
+climate -dependent work must provide, in addition to the standard documentation (VOE and 
+pay stub(s)), the following:
+·Documentation of the borrower’s total earnings year -to-date,
+·Signed and dated individual income tax returns for the previous 2 years, and
+·If the borrower works out of a union, evidence of the union’s history with the borrower.
+Alternative Verification Documentation
+Alternative documentation may be submitted in place of a VOE if the lender concludes that 
+the borrower’s income is stable, reliable, and anticipated to continue for the foreseeable 
+future; that is, if the borrower’s income qualifies as effective income. Two years of 
+employment with the same employer is not required to reach this conclusion.
+Al
+ternative documentation consists of:
+·paystub(s) covering at least the most  recent 30-day period with  year-to date 
+information,
+·W-2 Forms  for the most  recent 2 years,  and/or 
+·t
+elephone verification  of the borrower’s  current  employment.
+Continued on next page
+
+--- PAGE 8 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-8Topic 2 : Income – Required Documentation and Analysis, continued
+e.Income from Non -Military Employment, continued  
+Document the date of the verification and the name, title, and telephone number of the person 
+with whom employment is verified.
+If the employer is not willing to give telephone verification of the borrower’s employment or 
+if verification is in any way questionable, use standard documentation. Alternative 
+documentation cannot be used.
+Paystub(s) and W -2 forms may be originals, electronic, or copies certified by the lender to be 
+true copies of the originals.
+f.Borrower Employed for Less than 12 Months  
+Generally, employment less than 12 months is not considered stable and reliable. H owever, 
+the lender may consider the employment stable and reliable if the facts and documentation 
+warrant such a conclusion.
+Determine whether the borrower’s past employment, training, and/or education equipped him 
+or her with particular skills that relate  directly to the duties of their current position.
+If the probability of continued employment is high based on these factors, then the lender 
+may consider including the income in the total effective income.
+An explanation of why income  of less than 12 months duration was used must be documented 
+on the VA 26 -6393, Loan Analysis .
+If the probability  of continued employment  is good,  but not well supported, the lender may 
+utilize the income if the borrower has been employed at 12 months, to partially offset debts 
+of 6 to 24 months duration. An explanation of why income  was used to offset  debts must  be 
+documented on the VA 26 -6393, Loan Analysis .
+A borrower may have a valid offer of employment which will begin at or after the anticipated 
+date of closing which can be ver ified. All data pertinent to underwriting procedures should be 
+considered. However, a paystub(s) may not be available.
+g.Recent History of Frequent Changes of Employment  
+Short-term employment in a present position combined with frequent changes of 
+employment  in the recent past requires special consideration to determine stability of income. 
+Analyze the reasons for the changes in employment.
+Give favorable consideration to changes for the purpose of career advancement in the same 
+or related field.
+Favorable co nsideration may not be possible for changes with no apparent betterment to the 
+borrower and/or changes from one line of work to another.
+If the lender includes the borrower’s income, an explanation of why income of short- term 
+employment was used, must be documented on VA Form 26 -6393, Loan Analysis .
+Continued on next page
+
+--- PAGE 9 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-9Topic 2 : Income – Required Documentation and Analysis, continued
+h. Income from Overtime Work, Part Time Jobs, Second Jobs, and Bonuses 
+Generally, such income cannot be considered stable and reliable unless it has continued and 
+is verified for 2 years. To include income from these sources as income:
+·the income must be  consistent,
+·there must be a reasonable likelihood that it will continue in the foreseeable  future  
+based  on its compatibility  with the hours of duty and other work conditions of the 
+borrower’s primary job and,
+·how long the borrower  has been  employed under  such an arrangement.
+The lender may use this income, if not eligible for inclusion in income, but verified for at 
+least 12 months, to offset debts of 6 to 24 months duration. An explanation of why the 
+income was used to offset must be documented on VA Form 26-6393, Loan Analysis .
+i.Income from Commissions 
+Verify commission income by obtaining the VOE or other written verification which 
+provides the following:
+·the actual  amount of commissions  paid year -to-date,
+·the basis  for payments (salary  plus commission,  straight  commission,  or draws against 
+commission, or other), and
+·when  commissions  are paid bi-weekly, monthly, quarterly, semiannually, annually, or 
+other.
+·individual income tax returns, signed and dated, plus all applicable schedules  for the 
+previous 2 years (or  additional periods if needed  to demonstrate a satisfactory earnings 
+record).
+Analyze  Income Derived from Commissions
+Generally, income from commissions is considered stable when the borrower has obtained 
+such income for at least 2 years. Employment for less than 2 years cannot usually be 
+considered stable unless the borrower has had previous related employment and/or 
+specialized training. Employment of less than 1 year can rarely qualify; however, in- depth 
+development is required for a conclusion of stable income on less than 1 year cases .
+For a borrower who will qualify using commission income of less than 25 percent of the total 
+annual employment income, IRS Form 2106 expenses are not required to be deducted from 
+income even if they are reported on IRS Form 2106 . Additionally, the expenses are not 
+required to be added as a monthly liability for the borrower.
+For a borrower earning commission income that is 25 percent or more of annual employment 
+income, IRS Form 2106 expenses must be deducted from gross commission income 
+regardless of the length of time the borrower has filed the expenses with the IRS.
+One exception is an automobile lease or loan payment. An automobile lease or loan 
+payments are not subtracted from the borrower’s income; they are considered part of the 
+borrower’s recurring monthly debts/obligations in Section D on VA Form  26-6393, Loan 
+Analysis .
+Continued on next page
+
+--- PAGE 10 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-10Topic 2 : Income – Required Documentation and Analysis, continued
+j.Self-Employment Income Analysis Guidelines  
+Obtain a current financial statement in an industry recognized accounting format including:
+·Year -To-Date Profit and Loss statement (if the most recent year’s tax return  has not yet 
+been  prepared,  provide a profit  and loss statement  for that year),
+·current  Balance  Sheet, and
+·individual income tax returns, signed and dated, plus all appl icable schedules  for the 
+previous 2 years (or  additional periods if needed  to demonstrate a satisfactory earnings 
+record).
+·If the business is a corporation or partnership, include copies of the signed federal 
+business income tax returns for the previous 2 years with all  applicable  schedules, and a 
+list of all  stockholders or partners showing the interest each holds in the business.
+The financial statements must be sufficient for an underwriter to determine the necessary 
+information for loan approval.
+Financial Statements, including a year -to-date Profit and Loss Statement and Balance Sheet 
+must be completed after one -half of the tax -year has passed to verify current income and 
+stability of the income.
+The lender may require an accountant or Certif ied Public Accountant- prepared financial 
+statements if needed to make such a determination due to the nature of the business or the 
+content of the financial statements
+Analyze  Income  Derived  from Self -Employment
+Generally, income from self-employment is considered stable when the borrower has 
+obtained such income for at least 2 years. Less -than-2-years cannot usually be considered 
+stable unless the borrower has had previous related employment and/or specialized training. 
+Less-than-1 -year can rarely qualify; however, in -depth development is required for a 
+conclusion of stable income on less-than-1- year cases.
+Determine whether the business can be expected to generate sufficient income for the 
+borrower’s future needs.
+If the business shows a steady or significant decline in earnings over the period analyzed, the 
+reasons for such decline must be analyzed to determine whether the trend is likely to 
+continue or be reversed.
+If it is difficult to determine the probability of continued operation, obtain documentation on 
+the viability and potential future earnings, and an explanation of the function and financial 
+operations of the business from a qualified party.
+Continued on next page
+
+--- PAGE 11 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-11Topic 2 : Income – Required Documentation and Analysis, continued
+j.Self-Employment Income Analysis Guidelines , continued  
+Deductions and Expenses Claimed on Tax Returns
+Depreciation claimed as a deduction on the tax returns and financial statements of the 
+business may be included in effective income.
+Business or roll over losses must be considered from all tax returns.
+What is reported to the IRS on a joint return must be used when applying for a federally 
+guaranteed loan.
+On a joint tax return, the loss must be deducted from the borrower’s income in both 
+community and non-community property states.
+On a joint tax return, when a borrower and co -borrower have been faced with business 
+losses, the Veteran/borrower and his/her spouse may want to consider both being on the loan 
+in order to potentially qualify. The credit of both borrowers will be considered.
+k.Active Military Borrower’s Income  
+For active -duty military borrowers, a Leave and Earnings Statement (LES) is required 
+instead of a VOE. The LES must be an original, electronic, or a copy certified by the lender 
+to be a true copy of the original.
+The LES must furnish the same information as a VOE and must be no more than 120 days 
+old (180 days for new construction), from the date of closing.
+For loans closed automatically, the date of the LES must be within 120 days of the date the 
+note is signed (180 days for new construction).
+For prior approval loans, the date of the LES must be within 120 days of the date the 
+application is received by VA (180 days for new construction).
+In addition, identify servi cemembers who are within 12 months of release from active duty or 
+the end of their contract term. For an enlisted servicemember, find the date of expiration 
+(ETS) of the borrower’s current contract for active service on the LES. For National Guard or 
+Reser ve members, find the ETS of the borrower’s current contract on the LES. Also, if a 
+National Guard or Reserve member is currently serving on active duty, also identify the 
+expiration date of the current active -duty tour. If the date is within 12 months of t he projected 
+date that the loan will close, the loan package must also include one of the following items, 
+or combinations of items, to be acceptable:
+·documentation that the servicemember has already re -enlisted or extended his/her  
+period of active  duty to a date  beyond  the 12-month period following the projected 
+closing of the loan, or
+·documentation that the servicemember has already re -enlisted or extended his/her  
+period of active -duty service  to a date beyond the 12 -month period following the 
+projected c losing of the loan, or
+Continued on next page
+
+--- PAGE 12 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-12Topic 2 : Income – Required Documentation and Analysis, continued
+k.Active Military Borrower’s Income , continued  
+· verification of a valid offer of local civilian employment and/or verification  of military  
+retirement  income  following the release  from active -duty service, or
+·verification of a valid offer of local civilian employment and/or verification  of military  
+retirement  income  following the release  from active -duty service,  or
+·a statement from the servicemember that he/she intends to re -enlist or extend his/her 
+period of active -duty service to a date beyond the 12- month period, plus (1) a 
+statement from the servicemember’s commanding officer confirming that the 
+servicemember is  eligible to re -enlist or extend his/her active -duty service as indicated, 
+and (2) the commanding officer  has no reason to believe  that such re -enlistment  or 
+extension of active-duty service will not be granted, or
+·documentation of other unusual strong positive underwriting factors, such as a 
+downpayment of at least 10 percent from the borrower’s own assets (not a gift), a 
+minimum of 6 months PITI, in cash, after the downpayment from the borrower’s own 
+assets (not a gift) or clear evidence of strong ties to  the community coupled with a non-
+military spouse’s income so high that only minimal income from the active -duty 
+servicemember is needed to qualify.
+If an Officer has an ETS date listed as 888888 or 000000 on his or her LES, the above 
+documentation is not required unless there is evidence that the Officer has resigned his or her 
+commission.
+Example : An Active Duty Veteran’s LES indicates her ETS date listed on her LES is 
+171031 (October 31, 2017) and the projected date of closing is October 1, 2017. Therefo re, 
+one of the above items is needed to verify future income since her ETS date is less than 12 
+months from the projected date of closing.
+Example : A member of the Reserves has been called to Active Duty. The ETS date on his 
+LES indicates 181031 (October 31, 2018); however, his active duty orders indicate his active 
+duty tour will not exceed the next 60 days.
+Therefore, since he will be leaving active duty before 12 months of the projected closing 
+date, the active -duty income cannot be considered, and his civilian employment and drill 
+duty will need to be considered.
+Example : An Active Duty Veteran’s LES indicates his ETS date is less than 1 month from 
+the anticipated date of closing, and he indicates he will be receiving military retire ment and 
+has accepted civilian employment. Verify his future retirement income from the Department 
+of Defense and verify future civilian employment with the Veteran’s new employer.
+Analysis  of Base Pay
+Consider the borrower’s base pay as stable and reliabl e unless the borrower is within 12 
+months of release from active -duty service. Analyze the additional documentation submitted. 
+If the borrower will not be re -enlisting, determine whether the borrower’s anticipated source 
+of income is stable and reliable, a nd/or unusually strong underwriting factors compensate for 
+any unknowns regarding future sources of income.
+Continued on next page
+
+--- PAGE 13 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-13Topic 2 : Income – Required Documentation and Analysis, continued
+k.Active Military Borrower’s Income , continued  
+If an Officer has an ETS date listed as 888888 or 000000 on his or her LES, the above 
+documentation is not required unless there is evidence that the Officer has resigned his or her 
+commission.
+Analysis of  Military Quarters Allowance/ Basic Allowance for Housing (BAH)
+Include a military quarters allowance in effective income if properly verified. In most areas, 
+there will be an additional variable housing allowance, which can also be included. The 
+military quarters and variable housing allowances are not taxable income. The lender must 
+verify the amount of BAH the Veteran will receive. The BAH amount will change from one 
+duty station to another.
+Ensure that the borrower meets the occupancy requirements set forth in Chapter 3 of this 
+handbook.
+Verification  and Analysis of Basic Allowance for Subsistence (BAS) and Clothing 
+Allowances
+Any subsistence (rations) and clothing allowances are indicated on the LES. The lender may 
+include verified allowances in effective income. These allowances are not taxable income . 
+The clothing allowance generally appears on the LES as an annual amount. Convert the 
+annual amount to a monthly amount for the Loan Analysis.
+Verification  and Analysis  of Other Military Allowances
+To consider a military allowance in the underwriting analysis, obtain verification of the type 
+and amount of the military allowance, how long the borrower has received it and the 
+continuance into the foreseeable future.
+Military allowances may be included in effective income only if such income can be 
+expected t o continue because of the nature of the borrower’s assigned duties. Such 
+allowances include, but are not limited to:
+·proficiency  pay, such as linguistic,  parachute,  scuba, flight  or hazard pay, and
+·overseas  or combat  pay (sea pay, submarine, etc.)
+All types of allowances above are subject to periodic review and/or testing of the recipient to 
+ascertain whether eligibility for such pay will continue. Only if it can be shown that such pay 
+has continued for a prolonged period and can be expected to continue because of the nature 
+of the recipient's assigned duties, should the income be added to base pay. Contact the 
+borrower’s chain of command if there are questions regarding the continuance of the income.
+If the duration of the military allowance cannot be determined, this source of income may 
+still be used to offset short term obligations of 6 to 24 months duration.
+Consult the IRS to determine if any allowances for pay are considered taxable income by the 
+IRS, unlike housing, clothing, and subsistence allow ances.
+Continued on next page
+
+--- PAGE 14 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-14Topic 2 : Income – Required Documentation and Analysis, continued
+l.Income and Analysis of Income from Service in the Reserves or National Guard  
+Income derived from service in the Reserves or National Guard may be used if the borrower 
+has served in such capacity for a period of time sufficient to indicate a good probability that 
+such income will continue beyond 12 months. The total period of active-duty and reserve 
+service may be helpful in this regard. Otherwise, this income may be used to offset 
+obligations of 6 to 24 months duration.
+Income from Recently  Activated  Members  of the  Reserve or National Guard
+Lenders must consider if a borrower, whose  income is being used to qualify for a loan, may 
+have a change in income due to participation in a Reserves/National Guard unit subject to 
+activation.
+If an activated Reserves/National Guard member applies for a loan, they must present orders 
+indicating th eir current active duty tour is not to exceed 12 months.
+Example : The borrower’s full-time civilian employment is $3,000 per month. The 
+borrower’s current income from the Reserves due to activation is $3,500 per month and 
+orders are for 12 months. Since the borrower’s full -time civilian employment is only $3,000 
+per month, the $3,000 should be used to qualify the borrower.
+There are not any clear -cut procedures that can be applied to all cases. Evaluate all aspects of 
+each individual case, including credit history, accumulation of assets, overall employment 
+history, and make the best decision for each loan regarding the use of income in qualifying 
+for the loan.
+It is very important that loan files be carefully and thoroughly documented, including any 
+reasons for using or not using Reserve/National Guard income in these situations.
+As a lender, the goal is to provide the Veteran their benefit without placing him/her in a 
+financial hardship.
+m.Verification and Analysis of Income of Recently Discharged Veterans or Veterans to be 
+Discharged from the Military  
+See the Income from Non -Military Employment in Topic 2, subsection e of this chapter for 
+verification requirements.
+Obtain verification that any of the following income types apply:
+·employment  income,
+·retirement  income, and/or
+·VA disability  income.
+VA disability income is considered a benefit and does not need to be documented for the 
+likelihood of continuance.
+Continued on next page
+
+--- PAGE 15 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-15Topic 2 : Income – Required Documentation and Analysis, continued
+m.Verification and Analysis of Income of Recently Discharged Veterans or Veterans to be 
+Discharged from the Military , continued  
+VA disability income verification will be placed on the COE. However, there are some 
+instances where this income is not placed on the COE which may include if the Veteran:
+·wi
+ll be discharging within  the next 6 months from  the military  and has completed a 
+Physical Exam Board (PEB) or Medical Review Board (MEB) and will be filing for 
+VA disability while still on active duty,
+·has recently filed for VA disability and VA’s Compensation Service has  not yet made  a 
+determination  and would be entitled  to receive  VA disability benefits,
+·would be entitled  to receive  VA disability  benefits,  but for the receipt of retired pa y,
+·has received  VA disability  benefits in the past, or
+·is
+ an unmarried surviving spouse of a Veteran who is eligible for or receiving  
+qualifying Disability  and Indemnity  Compensation (DIC),  or
+·is in receipt  of a VA  nonservice  connected  pension, or
+·has a VA -appointed Fiduciary  to handle financial  matters.
+If the Veteran falls under one of the above categories, perform the following:
+·Submit by fax VA Form 26-8937 ,Verification of VA Benefits, to the VA  Regional 
+Loan Center  (RLC)  where  the subject  property  is located. VA will complete and return 
+the form to the lender by return fax.
+·Provide any supporting documents, including the COE, if it states to send VA Form 26-
+8937 ,Verification of Benefits to VA, to verify a Veteran’s monthly income from VA.
+Please note that if VA’s Compensation Service has not yet issued a memo rating and/or 
+completed a claim for a Veteran, then the amount the Veteran may receive in the future 
+cannot be determined until the claim has been completed.
+Until the Veteran begins receiving the monthly award, the amount cannot be placed on the 
+COE. A VA awards letter can be used  to verify the amount and date a future monthly VA 
+compensation award will begin. However, the COE may be updated to reflect if the Veteran 
+is exempt from paying the VA funding fee on a future disability award. See Chapter 8 of this 
+handbook for funding fee exemptions.
+The loan cannot be submitted for prior approval, or approved under the automatic procedure, 
+until the lender obtains the completed form from VA when the Veteran or surviving spouse is 
+under one of the above categories in subsection m of this topic. The lender must maintain the 
+completed form with the loan package.
+If the form indicates that the borrower receives a non service -connected pension or has a VA 
+Fiduciary, the loan cannot be closed automatically. The loan must be uploaded in WebLGY 
+for prior approval. See Chapter 5 of this handbook for the necessary documentation that must 
+be submitted to VA.
+VA must review, underwrite, and issue a Certificate of Commitment before the loan can 
+close. See Chapter 5 of this handbook for prior approval p rocedures.
+Continued on next page
+
+--- PAGE 16 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-16Topic 2 : Income – Required Documentation and Analysis, continued
+m.Verification and Analysis of Income of Recently Discharged Veterans or Veterans to be 
+Discharged from the Military , continued  
+VA’s Pension Service may also have to review and/or approve the application in addition to 
+Loan Production. The VA RLC will coordinate with the Pension Service upon receipt of the 
+underwriting package.
+Allow for additional processing time of a prior approval loan application when 
+Compensation and/or Pension Service must also review.
+Analysis of Prospects for Continued Employment
+Cases involving recently discharged Veterans often require the underwriter to exercise a 
+great deal of judgment and flexibility in determining whether the employment income will 
+continue in the foreseeable future. This is because some Veterans may have little or no 
+employment experience other than their military occupation.
+Continuity of employment is essential for a Veteran with no retirement income, or 
+insufficient retirement income, to support the loan obligation. If the duties the borrower 
+performed in the military are similar or directly related to the duties of the present position, 
+use this as one indicator that the employment is likely to continue.
+Most cases fall somewhere between these extremes. Fully develop the facts of each case to 
+make a determination. The guidelines under Self-Employment Income in Topic 2, subsection 
+j of this chapter provide guidance for a recently discharged Veteran who is sel f-employed.
+n.Rental Income  
+When all or a portion of the borrower’s income is derived from rental income, documentation 
+and verification of the income are necessary to determine the likelihood of continuance.
+Verification of Rental Offset of the  Property Oc cupied  Prior to  the New Home
+Obtain a copy of the rental agreement for the property, if any.
+Analysis  using  Rental Offset of the  Property Occupied  Prior to  the New Loan
+Use the prospective rental income only to offset the mortgage payment on the rental 
+property, and only if there is not an indication that the property will be difficult to rent. This 
+rental income may not be included in effective income.
+Obtain a working knowledge of the local rental market. If there is not a lease on the property, 
+but the l ocal rental market is very strong, the lender may still consider the prospective rental 
+income for offset purposes. Provide a justificat ion on VA Form 26-6393 ,Loan Analysis .
+Reserves are not needed to offset the mortgage payment on the property the Veteran occupies 
+prior to the new loan.
+Continued on next page
+
+--- PAGE 17 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-17Topic 2 : Income – Required Documentation and Analysis, continued
+n.Rental Income , continued   
+Example  [Rental Offset of the Property Occupied Prior to the New Loan] : The Veteran’s 
+current home has a VA mortgage with a monthly PITI payment of $1,000. Bonus entitlement 
+is being used to purchase a new primary residence and the Veteran will rent the previous 
+home for $1,200 monthly upon closing of the new home. The payment of $1,200 can be used 
+to offset the existing mortgage payment, if all the above conditions are met. The additional 
+rent received in excess of the mortgage payment cannot be used as effective income.
+Verification of Rental Property Income
+Obtain the foll owing:
+·documentation of cash  reserves  totaling  at least 3 months mortgage payments (PITI), 
+and
+·individual income  tax returns, signed and dated  or lender  obtained tax transcripts, plus 
+all applicable schedules for the previous 2 years, which show rental income generated 
+by the property.
+If the borrower has multiple properties, the borrower must have 3 months PITI documented 
+for each property to consider the rental income.
+If there is not a lien on the property, 3 months reserves to cover expenses s uch as taxes, 
+hazard insurance, flood insurance, homeowner’s association fees, and any other recurring 
+fees should be documented for the property(ies).
+Equity in the property cannot be used as reserves.
+Cash proceeds from a VA refinance cannot be counted as the required PITI on a rental 
+property. The reserve funds must be in the borrower’s account before the new VA loan 
+closes.
+Gift funds cannot be used to meet reserve requirements.
+Analysis of Rental Property Income
+Each property(ies) must have a 2-year rental history itemized on the borrower’s tax return.
+Property depreciation claimed as a deduction on the tax returns may be included in effective 
+income.
+If after adding depreciation to the negative rental income, the borrower still has rental loss , 
+the negative income should be deducted from the overall income as it reduces the borrower’s 
+income.
+If rental income will not, or cannot be used, then the full mortgage payment should be 
+considered and reserves do not need to be considered.
+Continued on next page
+
+--- PAGE 18 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-18Topic 2 : Income – Required Documentation and Analysis, continued
+n.Rental Income , continued   
+Verification of Multi -Unit Property Securing the VA loan
+The Veteran/borrower must occupy one unit as his/her residence.
+For purposes of determining the VA guaranty, lenders are instructed to reference only the 
+One-Unit Limit column in the FHFA Table “Fannie Mae and Freddie Mac Maximum Loan 
+Limits for Mortgages, located  at https:/ /www.fhfa.gov/DataTools/Downloads .
+Verify cash reserves totaling at least  6 months mortgage payments (PITI), and documentation 
+of the borrower’s prior experience managing rental units and/or use of a property 
+management company to oversee the property.
+Analysis of Multi -Unit Property Securing the VA loan (Veteran will occupy on e unit as 
+his/her residence)
+Include the prospective rental income in effective income only if:
+·the borrower has a reasonable likelihood of success as a landlord, and
+·cash reserves totaling at least 6 months mortgage payments (PITI).
+If each unit is separate and not under one mortgage, 6 months PITI must be verified for each 
+separate unit.
+Equity in the property cannot be used as reserves to meet PITI requirements. This must be 
+the borrower’s own funds, not a gift.
+Cash proceeds from a VA regular “Cas h-Out” refinance cannot be counted as the required 
+PITI on a rental property. The reserve funds must be in the borrower’s account before the 
+new VA loan closes.
+The amount of rental income to include in effective income is based on 75 percent of the 
+amount indicated on the lease or rental agreement unless a greater percentage can be 
+documented (existing property).
+The amount of rental income to include in effective income is based on 75 percent of the 
+amount indicated on the appraiser’s opinion of the prope rty’s fair monthly rental (proposed 
+construction).
+Continued on next page
+
+--- PAGE 19 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-19Topic 2 : Income – Required Documentation and Analysis, continued
+o.Temporary Boarder Rental Income Single Family Residence  
+The verification of temporary boarder rental income requires the following:
+·individual income  tax returns, signed and dated, plus all  applicable schedules for the 
+previous 2 years, which show boarder income generated by the property, and
+·the rental cannot impair the residential character of the property and  cannot exceed 25 
+percent of the total floor area.
+Analysis of Temporary  Boarder Rental Income
+Include rental income in effective income only if the borrower has a reasonable likelihood of 
+continued success due to the strength of the local market. Provide a justification on VA Form 
+26-6393, Loan Analysis .
+PITI reserves are not necessary to consider the income, and all the income may be used in th e 
+analysis.
+p.Alimony, Child Support, and Maintenance Payments  
+Verify the income if the borrower wants it to be considered. The payments must be likely to 
+continue for at least 3 years from the anticipated closing date to include them in effective 
+income.
+Factors used to determine whether the payments will continue include, but are not limited to:
+·whether  the payments  are received  pursuant to a written  agreement  or court decree,
+·the length of time  the payments have  been  received,
+·the regularity  of receipt, and
+·the availability  of procedures  to compel payment.
+See “ECOA Considerations” in Topic 2, subsection d of this chapter.
+q.Automobile or Similar Allowances  
+Generally, automobile allowances are paid to cover specific expenses related to a borrowe r’s 
+employment, and it is appropriate to use such income to offset a corresponding car payment. 
+However, if the borrower reports an allowance as part of monthly qualifying income, it must 
+be determined if the  automobile expense reported on IR S Form 2106 should be deducted 
+from income or treated as a liability.
+If the reported  expense  is less than the automobile  allowance,  the amount can be treated as 
+income and added to borrower’s monthly income.
+If the reported  expense  exceeds  the automobile  allowance,  the amount must  be deducted  from 
+income  as a net calculation  in Section  D on VA  Form 26-6393, Loan Analysis .
+Likewise, any  other  similar type of allowance  r eceived  by the borrower  should be considered 
+with regards to the tax returns for determination of an offset of the corresponding obligation, 
+as income, or as an expense.
+Con
+tinued on next page
+
+--- PAGE 20 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-20Topic 2 : Income – Required Documentation and Analysis, continued
+r.Other Types of Income  
+While not all types of income can be listed, documentation of income must support the 
+history of receipt and the likelihood or continuance of the income for at least 3 years from the 
+anticipated closing date to include in effective income. Otherwise, consider whether it is 
+reasonable to use the income to offsets short term obligations of 6 to 24 months duration.
+“Oth er” types of income which may be considered as effective income include, but are not 
+limited to:
+·pension or other  retirement  benefits,
+·disability  income,
+·dividends from  stocks or other,
+·interest  from  bonds, savings accounts, or others,
+·royalties,
+·notes rec eivable, and
+·trusts 
+VA disability income is considered a benefit and does not need to be documented for the 
+likelihood of continuance. A COE will generally have the amount of VA disability income 
+listed, however, see Topic 2, subsection m of this chapter for exceptions.
+A VA award letter or bank statement may also verify the current monthly amount received.
+The lender may include verified income from public assistance programs in effective income 
+if evidence indicates it will likely continue for 3 years or  more.
+The lender may include workers’ compensation income that will continue for at least 3 years 
+from the anticipated closing date if the borrower chooses to reveal it.
+The lender may include verified income received specifically for the care of any foster 
+child(ren), only to balance the expenses of caring for the foster child(ren) against any 
+increased residual requirements.
+Example : The borrower(s) receive a stipend paid by the county or State for two foster 
+children living in the residence. Instead of considering a family size of four, a family size of 
+two should be used to determine the residual income requirement.
+Do not include temporary income items such as VA educational allowances (including the 
+Post 9/11 GI Bill benefit) and unemployment comp ensation in effective income.
+Exception : If unemployment compensation is a regular part of a borrower’s income due to 
+the nature of his/her employment (for example, seasonal work), it may be included.
+Continued on next page
+
+--- PAGE 21 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-21Topic 2 : Income – Required Documentation and Analysis, continued
+r.Other Types of Income, continued  
+A borrower in receipt of VA Pension or Disability benefits with Aid and Attendance should 
+be discussed with the VA Pension Service, VA Compensation Service, or the VA Hospital 
+where the property is located, to determine if the income is likely to continue for the 
+foreseeable future.
+If a borrower has a contract for employment in a foreign country (whether or not the 
+employer is a US company or corporation), the income can be use d if it is verified, stable, 
+and reliable. While some contracts are renewed yearly, consider the borrower’s past 
+employment history and the likelihood of the contract being extended.
+Income that is paid by a foreign employer or government in foreign currency should be 
+converted to US dollars.
+
+--- PAGE 22 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-22Topic 3: Income Taxes and Other Deductions
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.In
+come Tax and Social Security Deductions  
+Determine the appropriate deductions for Federal income tax and Social Security  using the 
+“Employer’s Tax Guide”, Ci rcular  E,issued by the Internal Revenue Service (IRS).
+Determine the appropriate deductions for state and local taxes using similar materials 
+provided by the states.
+The income tax should be based upon the borrower’s residence and what is documented in 
+the guide to the IRS, and not solely the amount claimed on the paystub.
+An active -duty servicemember’s LES may have a different state tax deduction than the state 
+where the active -duty servicemember will be purchasing a residence or  refinancing. Select 
+the state listed on the LES for the state taxes to be considered in state tax deductions.
+The lender may consider the borrower’s potential tax benefits from obtaining the loan (for 
+example, mortgage interest deduction) in the analysis. To do so:
+·determine what the borrower’s withholding allowance will be, using the instructions 
+and worksheet portion of IRS Form W-4, Employee’s Withholding Allowance 
+Certificate, and
+·apply that  withholding number when  calculating  Federal  and state income  tax 
+deductions onVA Form 26 -6393, Loan Analysis , then
+·document the change  in deductions in Item 47, Remarks, on VA F orm 26-6393 ,Loan 
+Analysis .
+b.Income Tax Credits from Mortgage Credit Certificates (MCC)  
+MCCs issued by state and local governments may qualify a borrower for a Federal  tax credit. 
+The Federal tax credit is based on a certain percentage of the borrower’s mortgage interest 
+payment. Lenders must provide a copy of the MCC to VA with the loan package which 
+indicates:
+·documentation verifying any expenses charged by the local government entity for the 
+program which is listed on the Closing Disclosure Statement, and 
+the percentage to be used to calculate the tax credit, and if applicable, the amount of the 
+indebtedness. The certified indebtedness can be comprised of a loan incurred by the borrower 
+to acquire a principal residence or a qualified home improvement rehabilitation loan.
+There is an IRS annual limit on the tax credit equal to the lesser of the borrower’s maximum 
+tax liability or $2,000. Calculate the tax credit by appl ying the specified percentage to the 
+interest paid on the certified indebtedness. Then apply the annual limit.
+Continued on next page
+
+--- PAGE 23 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-23Topic 3 : Income Taxes and Other Deductions, continued
+b.Income Tax Credits from Mortgage Credit Certificates (MCC) , continued  
+Example:  The MCC shows a 30 percent rate and $100,000 certified indebtedness. The 
+borrower will pay approximately $8,000 in annual mortgage interest. The borrower’s 
+estimated total Federal income tax liability is $9,000. Calculate the tax credit as follows:
+Table 2: MCC Calculation
+Step Procedure
+1 30 percent of $8,000 = $2,400
+2 Apply the IRS annual $2,000 limit
+3 The tax credit will be $2,000
+This allows use of $167 (one twelfth of $2,000) as income to qualify the borrower.
+If the mortgage on which the borrower pays interest is greater than the amount of certified 
+indebtedness, limit the interest used in the tax credit calculation to that portion attributable to 
+the certified indebtedness.
+Since these programs are offered by state a nd local government(s), pre- approval by VA is 
+not required for the borrower to participate in the program. The lender is responsible to 
+determine all eligibility requirements are met by the borrower to participate in the program.
+c.Other Deductions from Inc ome 
+Include any costs for job-related expenses, child care, significant commuting costs, and any 
+other direct or incidental costs associated with the borrower’s or spouse’s employment.
+For children up to the age of 12 years, the lender is responsible for d etermining if there are 
+any child care expenses for the borrower(s).
+
+--- PAGE 24 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-24Topic 4: Assets and Closing Requirements
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Ass
+ets and Amount of Cash Required for Closing  
+Theborrower(s)  must  have  sufficient  cash assets  to cover:  
+· any closing costs, pre-paids, or discount points which are the borrower’s responsibility  
+and are not financed into  the loan, and
+·the difference  between  the sales  price  and the loan amount, if  the sales price exceeds the 
+reasonable value established by VA (i.e. negative equity).
+VA does not require the borrower(s) to have additional cash to cover a certain number of 
+mort
+gage payments, unplanned expenses or other contingencies on the residence, or 
+refinance of the Veteran’s residence.
+However, the borrower’s ability to accumulate liquid assets and the current availability of 
+liquid assets for unplanned expenses should be considered in the overall credit analysis.
+Reserves are required for borrowers us ing rental income to qualify. See Topic 2, subsection n 
+of this chapter for more information.
+A rental offset does not require additional assets to cover PITI. See Topic 2, subsection n of 
+this chapter for more information.
+The assets securing a loan(s) ag ainst deposited funds (signature loans, cash value life 
+insurance policies, 401(k) loans, other) may not be included as an asset  on the VA Form 26-
+6393, Loan Analysis. See  Topic 5 of this chapter  for more information.
+b.Verification of Assets and Cash to Close Requirements  
+Verify all liquid assets owned by the borrower(s) to the extent they are needed to close the 
+loan. In addition, verify any liquid assets that may have a bearing on the overall credit 
+analysis (significant assets). Use VA Form 26-8497a, Request for Verification of Deposit , or 
+electr onic, or certified copies of the borrower’s last two bank statements.
+Verifications must be no more 120 days old (180 days for new construction).
+For automatically closed loans, this means the date of the deposit verification is within 120 
+days of the date  the note is signed (180 days for new construction).
+For prior approval loans, this means the date of the deposit verification is within 120 days of 
+the date the application is received by VA (180 days for new construction).
+Continued on next page
+
+--- PAGE 25 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-25Topic 4 : Assets and Closing Requirements, continued
+c.Pending Sale of Real Estate  
+In some cases,  the determination  that the income  and/or assets  of borrowers are needed to 
+qualify for the loan depends upon the sale of presently the borrower’s owned real prop erty. 
+Thesale proceeds  may be  necessary  to: 
+· clear  the outstanding mortgage(s)  against  the property,
+·pay outstanding consumer obligations,
+·make  a downpayment or pay  closing costs  on the VA loan, and/or
+·restore  previously used VA entitlement.
+Evidence the sale  has been completed  should be included in the closing package to verify 
+proceeds from the sale.
+As an alternative, the Veteran may sell the property with the buyer assuming the outstanding 
+mortgage obligation. See Chapter 6 of this handbook for assumptions (Release  of Liability) 
+with a Substitution  of Entitlement  to restore previously used entitlement.
+See Chapter  5 of this  handbook for  prior  approval  loans, which depend  upon the sale of 
+property for the borrower to qualify.
+See Chapter  5 of this handbook for  all required loan closing documents.
+d.Gift Funds  
+A gift can be provided by a donor that  does not have  any affiliation  with the builder, 
+developer, real estate agent, or any other interested party to the transaction.  A gift letter must:  
+·specify  the dollar  amount of the  gift,
+·include the donor’s statement that no repayment is expected, and
+·indicate  the donor’s name, address, telephone number, and relationship to the borrower.
+The lender must verify that sufficient funds to cover the gift have been transferred to the 
+borrower’s account, or will be documented as received by the closing agent at the time of 
+closing.
+Acceptable documentation includes the following:
+·evidence of the borrower’s deposit,
+·a copy of the donor’s funds by check/electronic transfer to the closing agent, or
+·the CD showing receipt of the donor’s funds.
+
+--- PAGE 26 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-26Topic 5: Debts and Obligations
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Ve
+rifica tion Requirements for Debts and Obligations  
+Alldebts and obligations of the borrowers’  must  be verified  and rated.  Obtain a credit report 
+wi
+th all information for all credit bureaus.  See Topic 7, subsection a of this chapter for details 
+on the type of credit report required.  
+For obligations not included on the credit report which are revealed on the application or 
+through other means, the lender must obtain a verification of payment history  showing the 
+obligation or other  written  verification  directly f rom the creditor, including the payment 
+amount and outstanding balance.
+The lender  must  also separately  verify  accounts listed  as “will  rate by mail only” or “need 
+written authorization.”
+When  a pay stub(s)  or LES indicates  an allotment,  the lender  must  investigate the nature of 
+the allotment to determine whether the allotment is related to a debt or other obligation(s).  
+Examples may include 401K obligation or repayment, child care, child support, or other.
+For obligations that have not been rated on the credit report or elsewhere, obtain  the 
+verification  and rating  directly  from  the creditor.  Include a written explanation for any 
+obligation that is not rated.
+Resolve all discrepancies prior to closing.  If the credit report, deposit verification,  bank  
+statement,  or pay stub(s)  reveals  any debts or obligations which were not divulged by the 
+borrowers):
+·obtain clarification  as to the status  of such debts from  the borrower(s), then
+·verify  any remaining  discrepancies with the creditor.
+Credit reports and verifications  must  be no more  than 120 days old (180 days for new 
+construction).
+For automatically closed loans, this means the date of the credit report or verification  is 
+within  120 days of the date the note is  signed (180 days for new construction).
+For prior  approval loans, this means the date  of the credit  report  or verification is within 120 
+days of the date the application is received by  VA (180 days for new construction).
+ECOA  prohibits requests  for, or consideration of, credit  history and liability information  of a 
+spouse who will not be contractually  obligated on the loan, except:
+·if the borrower(s)  is relying on alimony, child  support, or maintenance payments from 
+the spouse (or former spouse), or
+·in community  property states.
+Continued on next page
+
+--- PAGE 27 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-27Topic 5 : Debts and Obligations, continued
+a.Verification Requirements for Debts and Obligations, continued 
+If either  of these  situations  is applicable,  the lender  must:  
+· Obtain  a credit  report  on the non-purchasing spouse in addition to the Veteran’s credit 
+report.
+·Consider the spouse’s credit history in reaching a determination. A Veteran  borrower  
+with a satisfactory  credit  history may be considered a satisfactory risk even though the 
+non-purchasing spouse’s credit may be unsatisfactory.
+·Include the monthly payment of the non-purchasing spouse’s debts on the VA Form  26-
+6393 ,Loan Analysis. For debts such as judgments and unpaid collection accounts, 
+lenders should consider the Veteran’s capacity to address the debt(s).
+·Develop the facts surrounding any unsatisfied judgments on the spouse’s credit report, 
+such as where the judgment was filed and whether the parties were  married  to one 
+another  at the time,  and secure a competent legal opinion whether the judgment may 
+become a lien against the property.
+·Exclude the monthly payment on the spouse’s debts from the loan analysis when  a 
+reliable  source  of income for the spouse is verified  to reach such a conclusion which is 
+voluntarily provided.
+· Document VA Form 26 -6393 , Loan Analysis, with an explanation of facts and determination 
+when concluding credit worthiness of the Veteran or excluding obligations of the non -
+purchasing spouse .
+b.Verification of Alimony and Child Support Obligations  
+The payment amount of any alimony and/or child support obligation of the borrower must be 
+verified.
+Do not request documentation of a borrower’s divorce unless it is necessary to verify the 
+amount of any alimony or child support liability indicated by the borrower. If, however, in 
+the routine course of processing the loan, the lender encounters direct evidence (such as, in 
+the credit report) that a child support or ali mony obligation exists, they should make any 
+inquiries necessary to resolve discrepancies and obtain the appropriate verification.
+Spousal support may be treated as a reduction in income on VA Form 26 -6393 , Loan 
+Analysis.
+Child support payment is treated as a liability on VA Form  26-6393 ,Loan Analysis.
+Continued on next page
+
+--- PAGE 28 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-28Topic 5 : Debts and Obligations, continued
+c. Analysis of Debts and Obligations  
+Significant  debts and obligations include:
+·debts and obligations with  a remaining  term of 10 months or more;  that is, long- term 
+obligations, and
+·accounts with  a term of less  than 10 months that  require  payments so large as to cause a 
+severe impact on the family’s resources for any period of time.
+Example : Monthly payments of $300 on an auto loan or lease with a remaining balance of 
+$1,500, even though it should be paid out in 5 months, would be considered significant. The 
+payment amount is so large as to cause a severe impact on the family’s resour ces during the 
+first, most critical, months of the home loan.
+Determine whether debts and obligations which do not fit the description of “significant” 
+should be given any weight in the analysis. They may have an impact on the borrower’s 
+ability to provide for family living expenses.
+If a married Veteran wants to obtain the loan in his or her name only, the Veteran may do so 
+without regard to the spouse’s debts and obligations in a non-community property state. 
+However, in community property states, the spouse’s debts and obligations must be 
+considered even if the Veteran wishes to obtain the loan in his or her name only. See Topic 2, 
+subsection c of this chapter.
+Debts assigned to an ex- spouse by a divorce decree will not generally be charged against a 
+borrower. This includes debts that are now delinquent.
+d.Borrower as Co -obligor/Co-Signor on a Loan or Obligation  
+The borrower(s) may have a contingent liability based on co-signing a loan. The lender may 
+exclude the loan payments from the monthly obligations fa ctored into the net effective 
+income calculation in the loan analysis if:
+·there  is evidence  that the loan payments are being made  by someone else and the 
+obligation is current, and
+·there is not a reason to believe that the borrower will have to participate in repayment 
+of the loan.
+e.Pending Sale of Real Estate  
+A borrower(s) may have a current home and the sale of the real property is needed to 
+complete the transaction. The lender may disregard the payments on the outstanding 
+mortgage(s) and any consumer obligations which the Veteran intends to clear if available 
+information provides a reasonable basis for concluding the equity to be realized from the sale 
+will be sufficient for this purpose. See Topic 4, subsection c of this chapter for necessary 
+documents.
+Continued on next page
+
+--- PAGE 29 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-29Topic 5 : Debts and Obligations, continued
+f. Secondary Borrowing  
+If the borrower(s) plans to obtain a second mortgage simultaneously with the VA- guaranteed 
+loan, include the second mortgage payment as a significant debt. From an underwriting 
+standpoint, the Veteran must not be placed in a substantially worse position than if the entire 
+amount borrowed had been guaranteed by VA. See Chapter 9 of this handbook for VA 
+limitations on secondary borrowing.
+If the borrower(s) provides written evidence that the student loan debt will be deferred at 
+least 12 months beyond the date of closing, a monthly payment does not need to be 
+considered.
+If a student loan is in repayment, or  scheduled to begin within 12 months from the date of 
+VA loan closing, the lender must consider the anticipated monthly obligation in the loan 
+analysis and utilize the payment established by calculating each loan at a rate of five percent 
+of the outstanding balance divided by 12 months.
+Example:  A borrower has a $25,000 student loan balance and you multiple it by 5%, which 
+equals $1,250. This amount ($1,250) is divided by 12 months to equal a monthly payment of 
+$104.17.
+If the payment(s) reported on the credit report for each student loan(s) is greater than the 
+threshold payment calculation above in a above, the lender must  use the payment recorded 
+on the credit report.
+If the payment(s) reported on the credit report is less than the threshold payment calculation 
+above
+, in order to count the lower payment, the loan file must contain a statement from the 
+student loan servicer that reflects the actual loan terms and payment information for each 
+student loan(s).
+The statement(s) must be dated within 60 days of VA loan closing, and may be an electronic 
+copy from the student loan servicer’s website or a printed statement provided by the student 
+loan servicer.
+It is the lender’s discretion as to whether the credit report should be supplemented with this 
+information.
+g.Loans Secured by Deposited Funds  
+Certain types of loans secured against deposited funds (signature loans, cash value life 
+insurance  policies,  401(k) loans, or other)  in which repayment  may be obtained through 
+extinguishing the asset, do not require repayment consideration for loan qualification.
+The assets  required  to s ecure  a loan(s)  may not be included as an asset  on the VA Form 26 -
+6393 ,Loan Analysis .
+Use the current balance times 60 percent minus the loan balance to equal the usable amount 
+to consider as an asset.
+A statement would only be necessary to verify the amount used as an asset.
+Continued on next page
+
+--- PAGE 30 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-30Topic 5 : Debts and Obligations, continued
+h.Open 30 -Day Charge Accounts  
+An open 30 -day charge account is defined as an account in which the borrower(s) must pay 
+off the outstanding balance on the account every month.
+For open 30- day charge accounts, determine if the borrower(s) pays the balance in full each 
+month, and has verified funds to cover the account balance in addition to any funds required 
+for closing costs.
+·If there  are sufficient  funds, the payment does not need  to be included in Section D of 
+the VA Form 26 -6393, Loan Analysis, but the obligation should continue to be listed.
+·If there are not sufficient funds, a minimum payment of 5 percent of the ba lance should 
+be considered included in Section D of the VAForm 26-6393, Loan Analysis.
+
+--- PAGE 31 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-31Topic 6: Debts Owed to the Federal Government
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Ti
+tle Search Requirements  
+The lender is responsible for obtaining the necessary title search to ensure there are no 
+encumbrances that would preclude the borrower from obtaining a loan.
+b. VA Form 26- 8937, Verification of Benefits  
+The lender is responsible for obtaining the necessary title search to ensure there  are no 
+encumbrances  that would preclude  the borrower  from  obtaining a loan.
+Generally, VA Form 26 -8937, Verification of VA Benefits, is not needed unless  the COE or 
+new IRRRL  case number indicates  to submit  the form  to VA  before  closing. However, ask 
+the Veteran  and any  Veteran  co-obligors (including spouse if a Veteran) if he or she:
+·will be discharging within  the next 6 months from  the military  and has completed a 
+PEB or MEB and will be filing for VA disability while still on active duty,
+·has recently  filed for VA disability  and compensation, or VA  pension, and VA has not 
+yet made a determination,
+·would be entitled  to receive  VA disability  benefits,  but in receipt  of retirement pay,
+·has received  VA disability  benefits in the past, or
+·is a
+n unmarried  surviving spouse of a Veteran  (has applied and/or in receipt of DIC 
+who died on active duty or as a result of a
+·service -connected disability.
+If the Veteran  falls under one of the above  categories,  follow  the procedures discussed in 
+Topic 2, subsection m of this chapter.
+When  VA returns the form  to the lender  and the form indicates  that the borrower has any of 
+the following:
+·an outstanding indebtedness of VA overpaid education, compensation, or pension 
+benefits,
+·an education or direct  home loan in default,
+·an outstanding indebtedness resultin g from  payment of a claim  on a prior VA home 
+loan, or
+·a repayment plan for any of these debts that is current,
+Then  one of the following must accompany the loan  package:
+·evidence  of payment in full  of the debt, or
+·evidence  of a current  payment  plan acceptable  to VA and evidence  that the Veteran 
+executed a promissory note for the entire debt balance.
+Continued on next page
+
+--- PAGE 32 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-32Topic 6 : Debts Owed to the Federal Government, continued
+b. VA Form 26- 8937, Verification of Benefits, continued 
+VAmay find a repayment  plan acceptable  if: 
+· the Veteran  has been satisfactorily  making payments on a repayment plan in effect prior 
+to the lender’s inquiry,
+·the Veteran’s  overall  credit  history and anticipated  financial  capacity after the proposed 
+loan is made indicate a reasonable likelihood that the repayment plan will be honored 
+and the outstanding amount of indebtedness is not so large that it would prevent 
+payment in full, within a reasonable period (approximately 1 year), or
+·the case involves unusually meritorious  circumstances.
+Examples
+Consideration would be given to a Veteran  with an outstanding/excellent credit history and 
+adequate income whose  debt balance  is too large to be reasonably paid out in less than 18 
+months to 2 years.
+VA will offer  special  consideration  to a Veteran’s  claim  that he or she was not previously 
+aware of an overpayment of benefits.
+c.What is the Credit Alert Verification Reporting System (CAIVRS)  
+CAIVRS is a Department of Housing and Urban Development (HUD) maintained computer 
+information system which enables participating lenders to  learn  when a borrower  has 
+previously defaulted  on a federally -assisted  loan. More information can be found at: 
+http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/sfh/caivrs
+The database includes default information from the Department of Agriculture, Department 
+of Education, Department of Justice, HUD, Small Business Administration, Federal Deposit 
+Insurance Corporation, and VA.
+The VA default information included in the database relates to:
+·overpayments on education cases,
+·overpayments on disability benefits income, and
+·claims paid due to home loan foreclosures which resulted in a debt of the government 
+(Generally type 2 VA loans).
+CAIVRS Procedures
+A CAIVRS  inquiry must  be performed  for all borrowers  and co-borrowers (Veteran or non -
+Veteran) on all VA loans, including IRRRLs. The one exception to this policy is that 
+CAIVRS  is not  required  for non-purchasing spouses in community property states.
+VA assigns a 10-digit VA lender identification number (ID) to each new lender, then 
+automatically  forwards  the ID number to HUD  with a request  to grant the lender CAIVRS 
+access.  The lender can begin accessing CAIVRS usually between 7 to 10 business days after 
+receiving its VA ID number assignment.
+Continued on next page
+
+--- PAGE 33 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-33Topic 6 : Debts Owed to the Federal Government, continued
+c.What is the Credit Alert Verification Reporting System (CAIVRS), continued 
+Toregister  for CAIVRS  access for  first time users,  please  use the following link: 
+https://entp.hud.gov/idapp/html/f57register.cfm.
+Please  direct  questions concerning problems encountered  with accessing CAIVRS to 
+caivrs_admin@hud.gov.
+If the borrower(s)  is found to have  a delinquent federal  debt through CAIVRS, the  validity  
+and delinquency status  of the debt should be verified  by contacting the creditor agency  using 
+the contact phone number and case number reflected on the borrower’s CAIVRS report.
+The creditor agency that is owed the debt can verify that the debt has been resolved. 
+Documentation should be included in the loan file and an explanation must  be pro vided on
+VA Form  26-6393 , Loan Analysis . It is not necessary  for CAIVRS to update the number if 
+documentation is included in the loan file.
+Once screening is complete, enter the CAIVRS confirmation code on VAForm 26 -6393,
+Loan Analysis , in the space  to the right  of the “no” block in item 46 for purchase and 
+refinances.
+For IRRRLs,  enter  the code  onVA Form  26-8923, IRRRL Worksheet, in the Notes section.
+d.Borrower with Presently Delinquent Federal Debts  
+When  CAIVRS  or another  source  indicates  that the borrower  has a delinquent Federal debt, 
+the following steps must be taken:
+·Suspend processing of the  loan application  to determine  the reason for the non “A” 
+number.
+·Give full consideration to the CAIVRS information, and any subsequent clarifying 
+information or documentation provided, in applying VA credit standards.  Any non “A” 
+number received does not automatically disqualify a Veteran from using their home 
+loan benefit; however,  the lender  must  document and justify  the approval. See Topic 7, 
+subsection b of this chapter for documentation and explanation requirements.
+·If a previ ous VA loan is involved that resulted in a debt to the government (due to 
+foreclosures,  short sale, deed  in lieu, or other), the borrower  may contact  the VA Debt 
+Management  Center  at 1-800-827- 0648 or at dmc.ops@va.gov to make arrangements 
+to repay the debt.
+Generally,  only type 2 VA loans (fifth  digit of the VA loan number)  result in  a debt to VA 
+and are reported.  The Veteran’s entitlement cannot be restored until the debt to VA is paid in 
+full.
+If the fifth digit of the previous loan number is a type 6 VA loan, there is generally a loss to 
+the government and the loss is not reported to CAVIRS. A loss to VA does not need to be 
+repaid; however, the Veteran’s previously used entitlement to guaranty the previous VA loan 
+is not restored until the loss is paid in full.
+Continued on next page
+
+--- PAGE 34 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-34Topic 6 : Debts Owed to the Federal Government, continued
+d.Borrower with Presently Delinquent Federal Debts, continued 
+Each agency has their timeliness requirements before removing a non “A” CAVIRS finding. 
+This does not preclude the Veteran or borrower from receiving a VA loan if credit standards 
+are met for VA l oans. See Topic 4.07b (13 and 14) of this Chapter for guidelines after a 
+bankruptcy or foreclosure.
+Example : A borrower suffered a loss on a FHA loan home loan 2 years ago. While HUD has 
+not removed the CAIVRS finding as the 3-year waiting period has not p assed for FHA, the 
+lender is eligible to continue processing a VA loan without an “A” CAIVRS finding due to 
+the borrower(s) meeting VA credit guidelines for foreclosures and documented in the loan 
+file.
+CAIVRS information is only for the lender’s and borro wer’s use in processing the loan 
+application. Only those persons having responsibility for screening borrowers and/or co-
+borrowers may use CAIVRS. Any other use is unauthorized.
+e.Treatment of Federal Debts  
+A borrower(s) cannot be considered a satisfactory credit risk if he or she is presently 
+delinquent or in default on any debt to the Federal Government until the delinquent account 
+has been brought current or satisfactory arrangement have been made between the borrower 
+and the Federal agency.
+Example : A borrower has delinquent taxes and payments have not been made for several 
+years. The establishment of a payment plan after the CAVIRS finding has been addressed 
+may not be sufficient to show a satisfactory payment arrangement to repay the obliga tion.
+A borrower(s) cannot be considered a satisfactory credit risk if he or she has a judgment lien 
+against his or her property for a debt owed to the Government until the judgment is paid or 
+otherwise satisfied.
+
+--- PAGE 35 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-35Topic 7: Credit History – Required Docum entation and Analysis
+Change Date : July 27, 2023
+·Subsection b has been updated to include guidance regarding medical collections and 
+medical charge offs . 
+·Subsection b has been updated to provide clarity regarding the monthly payment 
+consideration for unpaid medical collection accounts.
+a.Credit Report Standards  
+Credit  Reports used in analyzing VA  loans must  be either  Three -file Merged Credit Reports 
+(MCR), or Residential Mortgage Credit Reports (RMCR).
+The credit report must be less tha n 120 -days old (180 days for new construction). For 
+automatically closed loans and prior approval loans, the date  of the credit  report  must  be 
+within  120 days of the date the note is  signed (180 days for new construction).
+If an RMCR  is used, the standards applicable  to a RMCR  include, but are not limited to, the 
+following:
+·The report must be  prepared by a reputable  credit  reporting agency.
+·Each  account with  a balance  must  have  been checked  with the creditor within 90 days 
+of the date of the credit  report.
+For each debt listed,  the report must  provide the creditor’s name,  date the account was  
+opened,  high credit,  current  status,  required  payment, unpaid balance, and payment history.
+The report must name at least two national repositories of credit records contacted  for each 
+location  in which the borrower  has resided  during the most recent  2 years  (separate  
+repository inquiries  are required for  any co -borrowers with individual credit records).
+The report must include all available public recor ds information that is not considered 
+obsolete under the Fair Credit  Reporting Act(15 U.S.C. §  1681) such as bankruptcies, 
+judgments, law suits, foreclosures and tax liens.
+The RMCR  must  be an original  or electronic  report,  with no erasures, whiteouts, or 
+alterations.
+The report  must contain  a 24- mont h employment  and residency  history.
+VA may decline  to accept  a credit  report which does not meet  these  standards.
+If possible, the cost of the credit  report must  be listed  on the credit  report. If not possible, an 
+itemized invoice identifying the borrower(s) is required to verify  the cost on the Closing 
+Disclosure  Statement  (CD)  when  charging the borrower for the credit report.
+Continued on next page
+
+--- PAGE 36 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-36Topic 7 : Credit History – Required Documentation and Analysis, continued
+b. How to Analyze Credit  
+The borrower’s past repayment practices on obligations is the best indicator of his or her 
+willingness to repay future obligations. Emphasis should be on the borrower’s overall 
+payment patterns rather than isolated occurrences of unsatisfactory repayment. Determine 
+whether the borrower (and spouse, if applicable) is a satisfactory credit risk based on a 
+careful analysis of the credit report and other credit data.
+VA does not have a minimum credit score requirement.
+Rent and Mortgage Payment History
+The borrower’s most recent 24 -month rental history and any outstanding, assumed, or 
+recently retired mortgages must be verified and rated. Housing expense payment history is 
+often a primary indicator of how motivated the borrower is to make timely mortgage 
+payments in the future.
+Absence of Credit History
+For borrower(s) with no established credit history, base the determination on the borrower’s 
+payment record on alternative or nontraditional credit directly from the borrower or creditor 
+in which a payment history can be verified.
+Absence of a credit history is not generally considered an adverse factor.
+It may result when:
+·borrower(s)  has not yet  developed a credit  history,
+·borrower(s)  has routinely used cash rather  than credit,  and/or
+·borrower(s)  has not used since  some disruptive credit  event  such as bankruptcy or debt 
+pro-ration through consumer credit counseling.
+Accounts in the Spouse’s Name
+See Topic 2, subsection c in this chapter for ECOA and consideration of the spouse’s credit 
+history.
+Adverse Credit Data
+In circumstances not involving bankruptcy, satisfactory credit is generally considered to be 
+re-established after the borrower(s), have made satisfactory payments for 12 months after the 
+date the last derogatory credit item was satisfie d. If a credit report reveals numerous unpaid 
+collections and/or accounts that are not being paid timely, including some which have been 
+outstanding for many years, then once the borrower has satisfied the obligations, and then 
+makes timely payments on subsequent obligations for at least 12 months, satisfactory credit 
+is considered re -established.
+Continued on next page
+
+--- PAGE 37 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-37Topic 7 : Credit History – Required Documentation and Analysis, continued
+b.How to Analyze Credit, continued 
+Medical Collection and Charge -off Accounts
+Identifiable medical collections are collection accounts that are established when an overdue 
+medical bill is referred to a collection agency. Charge -offs may occur when a creditor is no 
+longer pursuing repayment of the medical debt. Le nders may disregard all identifiable 
+medical collections, including charge-off accounts, that have not been reduced to a judgment 
+or lien. 
+Identifiable medical collection accounts that have not been reduced to a judgment or lien do 
+not have to be paid off as a condition for loan approval and should not impact the overall 
+acceptability of a borrower's credit.
+Lenders do not need to obtain explanations for medical collections or charge-offs and do not 
+need to otherwise address such accounts.
+Non- medical Coll ection Accounts 
+Isolated non-medical collection accounts do not necessarily have to be paid off as a condition 
+for loan approval. A credit report may show numerous satisfactory accounts and one or two 
+unpaid collections. In such instances, while it would be preferable to have collections paid, it 
+would not necessarily be a requirement for loan approval. 
+However, non- medical collection accounts must be considered part of the borrower’s overall 
+credit history and such accounts should be considered open, recent credit. These unpaid 
+accounts must therefore be considered in the debt-to- income ratio and residual income 
+calculation on VA Form 26 -6393, Loan Analysis, and when using an Automated 
+Underwriting System (AUS). If such accounts are listed on the credit report with a minimum 
+payment, then the debt should be recognized at the minimum payment amount. 
+Non-medical collection accounts without established payment arrangements are to be 
+included with a calculated monthly payment using 5% of the outstanding bala nce of the 
+collection. Borrowers with a history of such accounts should have re- established satisfactory 
+credit in order to be considered a satisfactory credit risk. 
+While VA does not require such accounts be paid- off prior to closing if the borrower’s 
+overall credit is acceptable, an underwriter must address the existence of the account(s) with 
+an explanation on VA Form 26- 6393, Loan Analysis, and justify why positive factors 
+outweigh the negative credit history such accounts represent.
+Charge  -off Accou nts
+These accounts are typically collections in which the creditor is no longer pursuing collection 
+of the account. The underwriter must address the circumstances  regarding  the negative  credit  
+history when  reviewing the overall credit of the borrower(s). This does not apply to 
+identifiable medical charge -offs, as described above.
+Continued on next page
+
+--- PAGE 38 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-38Topic 7 : Credit History – Required Documentation and Analysis, continued
+b.How to Analyze Credit, continued 
+Disputed  Accounts
+Lenders may consider a Veteran's claim of bona fide or legal defenses regarding  unpaid debts 
+except  when the debt has been  reduced to judgment.
+The underwriter  should document the reason(s)  for not considering an  account on VA Form 
+26-6393, Loan Analysis .
+Judgments
+Account balances  reduced  to judgment by a court  must  either  be paid in full or subject to a 
+repayment plan with a history of timely payments.
+A history of timely  payments would be generally  considered  as making 12 payments to 
+reestablish credit.
+However, in certain cases when a judgment has only been in place for a few months, an 
+underwriter could justify on VA Form 26-6393 , Loan Analysis , a shorter repayment history if 
+the documentation indicates the borrower immediately  addressed  the judgment  after it was 
+filed and began a repayment plan.
+Payoff of Unpaid or Untimely Debts
+For unpaid or debts that have not been paid timely, pay- off of these debts after the 
+acceptability of a borrower's credit is questioned does not alter the unsatisfactory record of 
+payment. A period of making timely payments on subsequent obligations for at least 12 
+months, then satisfactory credit is considered re -established.
+Consumer Credit Counseling Plan
+If a borrower(s) has prior adverse credit and are participating in a Consumer Cred it 
+Counseling plan, they may be determined to be a satisfactory credit risk if they demonstrate 
+12 months’ satisfactory payments and the counseling agency approves the new credit. If a 
+borrower(s) has good prior credit and are participating in a Consumer C redit Counseling 
+plan, such participation is to be considered a neutral factor, or even a positive factor, in 
+determining creditworthiness. Do not treat this as a negative credit item if the borrower 
+entered the Consumer Credit Counseling plan before reaching the point of having bad credit.
+Bankruptcy
+The fact that a bankruptcy exists in a borrower (or spouse’s) credit history does not in itself 
+disqualify the loan. Develop complete  information  on the facts and circumstances of the 
+bankruptcy. Consider the reasons for the bankruptcy and the type of bankruptcy filing.
+Continued on next page
+
+--- PAGE 39 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-39Topic 7 : Credit History – Required Documentation and Analysis, continued
+b.How to Analyze Credit, continued 
+Bankruptcy Filed Under the Straight Liquidation and Discharge Provisions of the 
+Bankruptcy Law (Petition under Chapter 7 of the Bankruptcy Code):
+·If the bankruptcy was discharged  more  than 2 years  ago from  the date of closing for 
+purchases and refinances, it may be disregarded.
+·If the bankruptcy was discharged within the last 1 to 2 years, it is probably not possible 
+to determine that the borrower or spouse is a satisfactory  credit  risk unless  both of the 
+following requirements  are met:
+Table 3: Requirements for Bankruptcies Discharged within the last 1 to 2 years
+Requirement Explanation
+1 The borrower(s) had obtained consumer items on credit subsequent to  the 
+bankruptcy and has satisfactorily made the payments over a continued 
+period.
+2 The bankruptcy was caused by circumstances beyond the control of the 
+borrower or spouse such as unemployment, prolonged strikes, medical 
+bills not covered by insurance, an d so on, and the circumstances  are 
+verified. Divorce is not generally viewed as beyond the control of the 
+borrower and/or spouse .
+If the bankruptcy was discharged within the past 12 months, it will generally not be possible 
+to determine that the borrower(s) is a satisfactory credit risk.
+If the bankruptcy was caused by failure of the business of a self -employed borrower, it may 
+be possible to determine that the borrower is a satisfactory credit risk if all four of the 
+following are met:
+Table 4: Requirements for Bankruptcies Caused by the Failure of a Self -Employed 
+Borrower’s Business
+Requirement Explanation
+1 The borrower obtained a permanent position after the business failed.
+2 There is not any derogatory credit information prior to the self -
+employment.
+3 There is not any derogatory credit information subsequent to the 
+bankruptcy.
+4 Failure of the business was not due to the borrower’s misconduct.
+Continued on next page
+
+--- PAGE 40 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-40Topic 7 : Credit History – Required Documentation and Analysis, continued
+b.How to Analyze Credit, continued 
+Bankruptcy Petition Under Chapter 13 of the Bankruptcy Code
+This type of filing indicates an effort to pay creditors. Regular payments are made to a court -
+appointed trustee over a 2 to 3 -year period or, in some cas es, up to 5 years, to pay off scaled 
+down or entire debts.
+If the borrower(s) has finished making all payments satisfactorily, the lender may conclude that 
+the borrower has re -established satisfactory credit.
+If the borrowers) has satisfactorily made at le ast 12 months’ worth of the payments and the 
+Trustee or the Bankruptcy Judge approves of the new credit, the lender may give favorable 
+consideration .
+Foreclosures
+The fact that a home loan foreclosure (or deed -in-lieu or short sale in lieu of foreclosure) exists 
+in a borrower(s) history does not in itself disqualify the loan. Develop complete information on 
+the facts and circumstances of the foreclosure.
+You may disregard a foreclosure finalized more than 2 years from the date of closing. If th e 
+foreclosure was finalized within the last 1 to 2 years from the date of closing, it is probably not 
+possible to determine that the borrower(s) is a satisfactory credit risk unless both of the 
+following requirements are met:
+The borrower (s) has obtained consumer items on credit subsequent to the foreclosure and has 
+satisfactorily made the payments over a continued period, and
+The foreclosure was caused by circumstances beyond the control of the borrower (s) such as 
+unemployment; prolonged strikes, medical  bills not covered by insurance, and so on, and the 
+circumstances are verified.
+If a foreclosure, deed in lieu, or short sale process is in conjunction with a bankruptcy, use the 
+latest date of either the discharge of the bankruptcy or transfer of title fo r the home to establish 
+the beginning date of re -established credit. If there is a significant delay in the transfer of title, 
+the lender should contact the RLC of jurisdiction for guidance.
+Deed  in lieu or short  sale
+For a deed in lieu or short sale, deve lop complete information on the facts and circumstances 
+in which the borrowers)  voluntarily surrendered  the property. If the borrower’s payment 
+history on the property was not affected before the short sale or deed in lieu and was 
+voluntarily communicating with the servicer or holder, then a waiting period from the date 
+transfer of the property  may not be necessary.
+If the foreclosure, deed and lieu or short sale was on a VA -guaranteed loan, then a borrower  
+may not have  full entitlement  available  for the new VA loan. Ensure that the borrower’s COE 
+reflects sufficient entitlement to meet any secondary marketing requirements of the lender.
+
+--- PAGE 41 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-41Topic 8: Automated Underwriting Cases (AUS)
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Gener
+al AUS Information  
+VA has approved Freddie Mac’s Loan Prospector, Fannie Mae’s Desktop Underwriter, and 
+VA approved proprietary lender AUS systems to use in connection with VA- guaranteed 
+home loans. These systems incorporate VA’s credit standards and processing requirements.
+Lenders may use certain reduced documentation requirements on cases processed with 
+approved AUS. The level of reduced documentation depends on the risk classification 
+assig ned. The systems use different terminology such as Approve or Accept. The tables in 
+this section give a general description of documentation waivers. Please note that the 
+documentation requirements are the same for these cases as for non -AUS cases, except for 
+any differences cited in the tables.
+The automated systems do not approve or disapprove loans. They merely determine a risk 
+classification. It is still the lenders underwriter’s decision whether or not to approve the loan.
+Although VA has approved the use of these systems, we are not the vendor. The terms and 
+conditions of use must be negotiated directly with the provider of these systems.
+It is imperative that the data entered into the automated underwriting system be accurately 
+verified. The data util ized by the system must be supported by source documentation 
+obtained by the lender. Inaccurate or unverified data will result in invalidation of the risk 
+classification. Under certain circumstances, it could also result in a finding of material 
+misreprese ntation, which could affect the validity of the guaranty.
+b.Underwriter’s Certification  
+Because the AUS will be making the determination that the loan satisfies credit and income 
+requirements, cases receiving an “Accept” or “Approve” rating will not require the 
+underwriter’s signature on VA Form 26-6393, Loan Analysis (items 49 through 53). 
+However, the file must still contain the Lender’s Certification referenced in  Chapter 5 of the 
+VA Lender
+’s Handbook.
+Continued on next page
+
+--- PAGE 42 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-42Topic 8 : Automated Underwriting Cases (AUS), continued
+c.Documentation Guidelines for Credit History  
+Refer to the following table for documentation guidelines for credit history:
+Table 5: Documentation Guidelines for Credit History
+Subject and 
+ReferenceDocumentation Guidelines 
+and Reductions for ReferDocumentation Reductions 
+for Accept/Approve
+Types of credit 
+reports used in 
+reconciliation (Topic 
+7 of this chapter)Use any of the following if 
+≤120 or 180 -days old 
+(existing/new  constructions):
+All in -file reports, Selected in -
+file reports,  Merged  credit 
+report, or RMCRSame  as Refer.
+Explanation of 
+discrepancies in 
+reported debt (Topic 
+5 of this chapter)No explanation is required. Same  as Refer.
+Rental payment 
+history (Topic  7 of 
+this chapter)Provide a 24 month rental 
+history directly from the 
+landlord, through information 
+shown on credit report or by  
+cancelled checksNo verification of rent is 
+required.
+Verification of 
+significant non- 
+mortgage debt (Topic  
+5 of this chapter)Obtain direct verification for 
+significant debts not reported on 
+the credit report.
+Note:  Significant means that 
+the debt has a monthly payment 
+exceeding 2 percent of the 
+stable monthly income for all 
+borrowers.Same as Refer.
+Note : Perform manual 
+downgrade to Refer if direct 
+verification reveals more than 1 
+by 30 day late payment in the 
+past 12 months for any of the 
+omitted debts.
+Continued on next page
+
+--- PAGE 43 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-43Topic 8: Automated Underwriting Cases (AUS), continued
+c.Documentation Guidelines for Credit History , continued  
+Table 5: Documentation Guidelines for Credit History , continued
+Subject and 
+ReferenceDocumentation Guidelines 
+and Reductions for ReferDocumentation Reductions 
+for Accept/Approve
+Mortgage payment 
+history (Topic 7 of 
+this chapter)Obtain  direct  verification  when 
+ratings are not available on 
+mortgages that are any of the 
+following:
+·Outstanding,
+·Assumed,  or
+·Recently  retired .
+A written explanation of 
+mortgage payment history is 
+required for bor rowers with 
+more than 1 by 30 day late 
+payment for all mortgages for 
+the past 12 months.Perform manual downgrade to 
+Refer for any mortgage debt 
+with more than 1 by 30 day late 
+payment in the past 12 months.
+Account balances 
+(Topic 7 of this 
+chapter)If a mortgage or other 
+significant debt is listed on the 
+credit report as past due and 
+was last updated ≥90 days, 
+verify current status of past due 
+debt.Same as Refer, however if 
+rating is currently ≥90 days  past 
+due, manually downgrade to 
+Refer.
+Derogatory credit 
+information (Topic 7 
+of this chapter)Obtain explanation for 
+derogatory credit. Explain 
+assessment of creditworthiness 
+on VA Form 26 -6393 , Loan  
+AnalysisNo determination of 
+creditworthiness is required.
+Alimony and/or child 
+support payments 
+(Topic 2 of this 
+chapter)Provide  the following:
+·Proof  of deposits  on bank 
+statements for 3 months, 
+and
+·Front  page  and details  of 
+support payments from the  
+divorce decree, indicating 
+evidence of at least  3 years  
+continuance.Same as Refer.
+Continued on  next page
+
+--- PAGE 44 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-44Topic 8: Automated Underwriting Cases (AUS), continued
+d.Documentation Guidelines for Borrower(s) Not Self -Employed  
+Refer to the following table for documentation guidelines for employment/income for 
+borrower(s) who are not self-employed:
+Table 6: Documentation Guidelines for Borrower(s) Not Self -Employed
+Subject and 
+ReferenceDocumentation Guidelines 
+and Reductions for ReferDocumentation Reductions 
+for Accept/Approve
+Employment gaps 
+(Topic 2 of this 
+chapter)No explanation for employment 
+gaps is required if the gaps are 
+˂30 days.No explanation for employment 
+gaps is required if gaps are ˂60 
+days.
+Verif ying current 
+employment for 
+borrowers who are not 
+self-employed (Topic 
+2 of this chapter)Document telephone contact 
+verifying borrower’s current 
+employer.
+Use pay  stubs covering at least 
+1 full month of employment 
+and contains the following:
+·Year -to-Date (YTD) 
+information,
+·Bonus information, and
+·Overtime information.Same as Refer. 
+Continued on next page
+
+--- PAGE 45 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-45Topic 8: Automated Underwriting Cases (AUS), continued
+d.Documentation Guidelines for Borrower(s) Not Self -Employed, continued  
+Table 6: Documentation Guidelines for Borrower(s) Not Self -Employed, continued
+Subject and 
+ReferenceDocumentation Guidelines 
+and Reductions for ReferDocumentation Reductions 
+for Accept/Approve
+Verifying previous 
+employment (Topic 2 
+of this chapter)Use a VOE or any of the 
+following, covering the 2 -year 
+period prior to closing:
+·W-2 Forms,  or
+·Income  information 
+obtained from the IRS via 
+one of the following 
+forms:
+□Form 8821, Tax 
+Information 
+Authorization,  (or 
+alternate form 
+acceptable to the 
+IRS that collects 
+comparable 
+information) or
+□Form 4506, Request 
+for Copy of  Tax 
+Return,  (or alternate 
+form acceptable to 
+the IRS that collects 
+comparable 
+inform ation).
+·No VOE or W -2 Forms  are 
+required for a borrower on 
+active duty.
+·The Leave and Earning 
+Statement (LES) should be 
+used.No VOE is required if the 
+borrower has been with the 
+same employer for 1 year and 
+W-2 Forms for 1 previous year 
+have been collecte d.
+No W -2 Forms are required for 
+a borrower on active duty.
+No W -2 Forms are required if 
+all of the following are met:
+·Borrower  is with the 
+same employer >2 years
+·Employer  phone  contact 
+verifies the length of 
+employment  and current 
+status (still employed)
+·Borrower is not self - 
+employed  or 
+commissioned
+·Bonus, overtime, or 
+secondary  income  is not 
+needed to qualify
+·Stable monthly  income is 
+to be determined by using 
+current  base pay only 
+(rather than total 
+earnings)
+·Borrower signs one of the 
+following  for the 
+previous  2 tax years:
+□Form  8821,  and
+□Form 4506.
+Continued on next page
+
+--- PAGE 46 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-46Topic 8: Automated Underwriting Cases (AUS), continued
+e.Documentation Guidelines for Borrower(s) Self -Employed  
+Refer  to the following table  for documentation guidelines for employment/income for 
+borrower(
+s) who are self-employed:
+Table 7: Documentation Guidelines for Borrower(s) who are Self -Employed
+Subject and 
+ReferenceDocumentation Guidelines 
+and Reductions for ReferDocumentation Reductions 
+for Accept/Approve
+Individual tax returns 
+for self - employed 
+borrowers (Topic 2 of 
+this chapter)Provide one of the following, 
+with all line items captured:
+·signed copies of individual  
+tax returns for the most 
+recent 2- year period or ta x 
+transcripts, or
+·individual income 
+information  obtained from  
+the IRS via one of the 
+following forms:
+□Form 8821 (or an 
+alternate form 
+acceptable to the 
+IRS that collects 
+comparable 
+information)  or
+□Form 4506 (or an 
+alternate form 
+acceptable to the 
+IRS that collects 
+comparable 
+information).Same as Refer.
+Balance sheets and 
+profit and loss 
+statements for self - 
+employed borrowers 
+(Topic 2 of this 
+chapter) .No balance sheet or YTD Profit  
+and Loss  (YTD  P&L)  is 
+required if origination date is
+< 7 months  from  the business ’ 
+fiscal year end (for which tax 
+returns or information from the 
+IRS via Form 8821 or Form 
+4506 were provided).No balance sheet or YTD P&L 
+is required.
+Continued on next page
+
+--- PAGE 47 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-47Topic 8: Automated Underwriting Cases (AUS), continued
+e.Documentation Guidelines for Borrower(s) Self -Employed, continued  
+Table 7: Documentation Guidelines for Borrower(s) who are Self -Employed , continued
+Subject and 
+ReferenceDocumentation Guidelines 
+and Reductions for ReferDocumentation Reductions 
+for Accept/Approve
+Business tax returns 
+for self -employed 
+borrowers (Topic 2 of 
+this chapter)Provide  one of the following, 
+with all line items captured:
+·Signed  copies  of business 
+tax returns for the most 
+recent 2 -year period.
+·Business income 
+information  obtained  from 
+the IRS via one of the 
+following forms:
+□Form 8821 (or an 
+alternate form 
+acceptable to the 
+IRS that collects 
+comparable 
+information) or
+□Form  4506  (or an 
+alternate form 
+acceptable to the 
+IRS that collects 
+comparable 
+information).No business tax returns are 
+required if all of the following 
+conditions are met:
+·Borrower proves 
+ownership of the business 
+for at least the past 5 years.
+·Individual tax returns 
+reflect consistent income  
+for the past 2 years.
+·Funds for downpayment or 
+closing costs are not from 
+the business.
+Verify assets to close 
+in the borrower’s 
+name (Topic 4 of this  
+chapter)Provide bank/asset statements 
+covering the most recent 2 - 
+month period in lieu of a 
+Verification of Deposit (VOD).Provide bank/asset statements 
+covering most recent 1 - month 
+period in  lieu of a VOD.
+
+--- PAGE 48 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-48Topic 9: How to Complete VA Form 26 -6393 Loan Analysis
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Gener
+al 
+In order to properly enter information on VA Form 26-6393, Loan Analysis , the underw riter 
+must understand and apply the guidelines provided in the preceding sections of this chapter.
+b.Estimated Monthly Shelter Expense  
+Special instructions are listed in the following table:
+Table 8: Estimated Monthly Shelter Expenses
+Item Special Instructions
+16 If taxes are expected to increase, use the increased amount.
+17 Include the flood insurance premium for properties located in special flood hazard areas.
+18 If special assessments are anticipated, use the anticipated amount.
+19 Calculate maintenance and utility costs using 14¢ per square foot for the gross living 
+area as per the appra isal.
+Example : A 1,500 square foot home with a 1,500 square foot unfished basement would 
+have a combined maintenance and  utility cost of $210 (1,500sq X .14).
+20 For condominiums or houses in a Planned Unit Development (PUD), include the 
+monthly amount of  maintenance assessment payable to the homeowner’s association.
+c.Debts and Obligations  
+List all known  debts and obligations of the borrower  and spouse including any alimony 
+and/or child support payments. Spousal support or alimony may be treated as a reduction in 
+income; however, child support is to be treated as a liability.
+Place a check mark in the (3) column next to any “significant” debt or obligation. See the 
+topic  “Analysis of Debts and Obligations”  in Topic 4.05c of this chapter, for an explanation 
+of “significant.”
+Job Related Expense –  Section D line 29.
+Include any costs for child care, significant commuting costs, and any other direct or 
+incidental costs associated with the borrower’s (or spouse ’s) employment. Check this item if 
+total job -related expenses are significant.
+Up to age 12, the lender  is responsible for determining if there  are any child care expenses for 
+the borrower(s).
+Continued on next page
+
+--- PAGE 49 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-49Topic 9 : How to Complete VA Form 26-6393, Loan Analysis, continued
+d.Federal Income Tax – Item 32 
+Enter  the 
+borrower’s  estimated  monthly Federal  income  tax, based  upon  IRS tax tables. If the 
+borrower has a MCC, reduce the Federal income tax by the estimated tax cred it. See Topic 3, 
+subsection b of this chapter for MCC.
+e. Balance Available for Family Support –  Item 43 
+Enter the appropriate residual income amount from the following tables in the “guideline” 
+box. Residual income is the amount of net income remaining (after deduction of debts and 
+obligations and monthly shelter expenses) to cover family living expenses.
+The numbers are based on data supplied in the Consumer Expenditures Survey (CES) 
+published by the Department of Labor’s Bureau of Labor Statistics.
+They vary according to loan size, family size, and region of the country.
+Residual Tables . A key to the geographic regions is listed in the following tables:
+Table 9: Table of Residual Incomes by Region for Loan Amounts of $79,999 and Below
+Family Size Northeas t Midwest South West
+1 $390 $382 $382 $425
+2 $654 $641 $641 $713
+3 $788 $772 $772 $859
+4 $888 $868 $868 $967
+5 $921 $902 $902 $1,004
+For Family Size Over 5: Add $75 for each additional member up to a family of seven.
+Table 10: Table of Residual Incomes by Region for Loan Amounts of $80,000 and Above
+Family Size Northeast Midwest South West
+1 $450 $441 $441 $491
+2 $755 $738 $738 $823
+3 $909 $889 $889 $990
+4 $1,025 $1,003 $1,003 $1,117
+5 $1,062 $1,039 $1,039 $1,158
+For Family Size Over 5: Add $80 for each additional member up to a family of seven.
+Continued on next page
+
+--- PAGE 50 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-50Topic 9 : How to Complete VA Form 26-6393, Loan Analysis, continued
+e. Balance Available for Family Support –  Item 43, continued  
+Table 11: Key to Geographic Regions Used on the Preceding Tables (Tables 6 and 7)
+Geographic Region States
+Northeast Connecticut, Maine, Massachusetts, New Hampshire, Vermont, 
+New Jersey, New York, Pennsylvania, Rhode Island
+Midwest Illinois , Indiana , Iowa , Kansas , Michigan , Minnesota , Missouri , 
+Nebraska , North Dakota , Ohio , South Dakota , Wisconsin
+South Alabama , Arkansas , Delaware , District of Columbia , Florida , 
+Georgia , Kentucky , Louisiana , Maryland , Mississippi , North 
+Carolina , Oklahoma , Puerto Rico , South Carolina , Tennessee , 
+Texas , Virginia , West Virginia
+West Alaska , Arizona , California , Colorado , Hawaii , Idaho , Montana , 
+Nevada , New Mexico , Oregon , Utah , Washington , Wyoming
+Examples
+A Veteran  has a family  size of 3 purchasing a home in Arizona  with a loan amount of 
+$400,000.  The residual figure will be $990.
+A Veteran has a family size of 8 purchasing a home in Georgia with a loan amount of 
+$150,000.  The residual figure will be $1,199 (family size of 5 which is $1,039 adding $80  
+for each additional  family  member  up to a family size of 7).  The eighth person will not be 
+considered in the calculation.
+Special  Instructions
+Count all members of the household (without  regard  to the nature  of the relationship) when 
+determining “family size,” including:
+·A borrower’s  spouse who is  not joining in title or  on the note, and
+·Any other  individuals who depend on the borrower for support.
+If a dependent is  claimed  on the Federal Tax Returns, then the dependent must be considered 
+as a member of the household, to calculate residual income.
+Examples
+·Children from  a spouse’s prior  marriage  who are not the borrower’s legal dependents.
+·A dependent parent.
+Continued on  next page
+
+--- PAGE 51 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-51Topic 9 : How to Complete VA Form 26-6393, Loan Analysis, continued
+e. Balance Available for Family Support –  Item 43, continued  
+Exceptions  for Considering  All Members  of the Household
+The lender may omit any individuals from “family size” who are fully supported from  a 
+source  of verified  income  which, for whatever  reason, is not included in effective income in 
+the loan analysis.
+Examples
+·a spouse not obligated on the title or on the note that  has stable  and reliable income 
+sufficient to support his or her living expenses.
+·a child  for whom sufficient  foster  care payments or child  support is received regularly, or
+·a parent  who has  sufficient  stable  and reliable  non-taxable  income.
+Reducing  the Residual  Income  Figures
+Reduce  the residual income figure  (from the  above  tables)  by five percent if:
+·the borrower(s)  is an active  duty or retired  serviceperson, or
+·there  is a clear  indication  that a borrower  will receive  the benefits resulting from use of 
+milit
+ary-based facilities located near the property.  Examples include Guard and Reserve 
+military retirees, 100 percent disabled Veterans and their family members, or Medal of 
+Honor recipients.
+f.Debt -to-Income Ratio – Item 44 
+VA
+’s debt-to- income ratio is a ratio of total monthly debt payments (housing expense, 
+installment debts, and other debt) to gross monthly income. The following steps are required 
+to determine the debt -to-income ratio:
+Table 12: Steps to Determine the Debt -to-Income Ratio
+Step Description
+1 Add: Items 15+16+17+18+20+40 = Debt
+2 Add: Items 31+38 = Income
+3 Divide: Debt ÷ Income = Debt -to-Income Ratio
+4 Round: To the nearest two digits
+The “Debt -to-Income Ratio” heading in Topic 10, subsection b of this chapter contains 
+special procedures to apply if the ratio exceeds 41 percent.
+Only the borrower's actual income may be used to calculate the residual income.
+Care should be exercised to ensure that the income considered tax -exempt is likely to 
+continue and remain untaxed.
+Continued on  next page
+
+--- PAGE 52 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-52Topic 9 : How to Complete VA Form 26-6393, Loan Analysis, continued
+b.Debt -to-Income Ratio – Item 44, continued  
+Tax- free income includes certain military allowances, child support payments, workers’ 
+compensation benefits, disability retirement payments, and certain types of public assistance  
+payments. 
+Verify that the income is indeed tax -free before “grossing up.”
+Tax- free income may be “grossed up” for purposes of calculating the debt -to- income ratio 
+only.
+·This is a tool that may be used to lower  the debt ratio for borrowers who clearly qualify 
+for the loan.
+·“Grossing up” involves adjusting the income upward to a pre- tax or gross  income  
+amount which, after deducting state  and Federal  income taxes, equals the tax- exempt 
+incom
+e.
+·Use current  IRS and state income  tax withholding tables  to determine an  amount which 
+can be prudently employed to adjust  the borrower’s actual income. Use a figure of 125 
+percent of the borrower’s non - taxable income when “grossing up.”
+·Do not add non-taxable  income  to taxable  income  before  “grossing up.”
+·If “grossing up” is used, indicate such and provide the “grossed up” ratio of 125 percent 
+in item 47, “Remarks.” The actual amounts of the borrower’s non- taxable income 
+should not be adjusted in in line 38.
+c.Past Credit Record – Item 45  
+Indicate whether the borrower (and spouse, if applicable) is a satisfactory or unsatisfactory 
+credit risk based on a complete analysis of credit data.
+
+--- PAGE 53 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-53Topic 10: How to Analyze the Information on VA Form 26 -6393, 
+Loan Analysis
+Change Date : February 22, 2019
+·This chapter has been revised in its entirety.  
+a.Resi
+dual Income  
+VA’s minimum residual incomes (balance available for family support) are a guide. They 
+should not automatically trigger approval or rejection of a loan. Instead, consider residual 
+income in conjunction with all other credit factors.
+However, an inadequate residual income alone can be a basis for disapproving a loan.
+If residual income is marginal, look to other indicators such as the borrower’s credit history, 
+and in pa
+rticular, whether and how the borrower has previously handled similar housing 
+expense.
+Consider the ages of the borrower’s dependents in determining the adequacy of residual 
+income.
+b.Debt -to-Income Ratio  
+VA’s  debt-to- income  ratio is a ratio of total monthly  debt payments (housing expense, 
+installment debts, and other obligations listed in section D of VAForm 26-6393, Loan 
+Analysis , to gross  monthly income. I t is a guide and, as an underwriting factor, it is 
+secondary to the residual income.  It should not automatically trigger approval or rejection of 
+a loan. Instead, consider the ratio in conjunction with all other credit factors.
+A ratio greater  than 41  percent  requires close  scrutiny unless:
+·the ratio  is greater  than 41 percent  unless  it is larger  due solely  to the existence of tax -
+free income which should be noted in the loan file), the loan may be approved with 
+justification, by the underwriter's supervisor, or
+·residual  income  exceeds the guideline by at  least 20 percent.
+Loans closed automatically  with a debt-to- income  ratio greater  than 41 percent:
+·Include a statement justifying the reasons for approval, signed by the underwriter’s 
+supervisor, unless  residual  income  exceeds the guideline by at least 20 perc ent.
+·The statement must include the reason(s) for approving the loan and list the 
+compensating factors justifying approval of the loan.
+c.Credit History  
+A poor credit history alone is a basis for disapproving a loan.
+If credit history is marginal, look t o other factors such as residual income .
+Continued on next page
+
+--- PAGE 54 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-54Topic 10 : How to Analyze the Information on VA Form 26-6393, Loan Analysis, continued
+d. Compensating Factors 
+Compensating factors may affect the loan decision. These factors are especially  important  
+when  reviewing loans which are marginal  with respect  to residual income or debt-to- income 
+ratio.  They cannot be used to compensate for unsatisfactory credit.
+Valid compensating factors should represent strengths rather than mere satisfaction of basic 
+program requirements.  For example, the fact that a borrower  has sufficient  assets  for closing 
+purposes, or meets  the residual income guideline, is not a compensating factor.
+Valid compensating factors should logically be able to compensate (to some extent)  for the 
+identified  weakness  in the loan. For example,  significant  liquid assets may compensate for a 
+residual income shortfall whereas long -term employment would not.
+Compensating factors  include, but are  not limited  to the  following:
+·excellent  credit  history,
+·conservative  use of consumer  credit,
+·minimal  consumer  debt,
+·long- term employment,
+·significant  liquid  assets,
+·sizable  downpayment,
+·the existence  of equity in refinancing  loans,
+·little or no increase  in shelter  expense,
+·milit ary benefits,
+·satisfactory  homeownership experience,
+·high residual  income,
+·low debt-to- income  ratio,
+·tax credits for  child  care,  and
+·tax benefits of home ownership.
+e.Com
+pare Previous and Proposed Shelter Expenses  
+Closely scrutinize a case in which the borrower will be paying significantly higher shelter 
+expenses than he or she currently pays.
+Consider the:
+·ability of the borrower to accumulate liquid assets, and
+·amount of debts incurred while paying a less amount for shelter.
+If a borrower’s application  shows little or no reserves and excessive obligations, it may not 
+be reasonable to conclude that a substantial increase in shelter expenses can be absorbed.
+Continued on next page
+
+--- PAGE 55 ---
+VA Lenders Handbook M26 -7
+Chapter 4: Credit Underwriting
+4-55Topic 10 : How to Analyze the Information on VA Form 26-6393, Loan Analysis, continued
+f.Home Mortgage Disclosure Act (HMDA)  
+Asa result  of releases  of Home Mortgage  Disclosure  Act(HMDA)  data,  many lenders are 
+increasingly concerned that they are taking all appropriate measures  to assure  access  by 
+minorities  and lower  income  households to home mortgage loans. VA believes that it is 
+important for l enders to be aware of how effectively the VA Home Loan Program can assist 
+them in meeting this goal.
+Compatibility  of VA Program with  HMDA
+The no down payment feature is, of course, a primary advantage for individuals with low-to-
+moderate incomes.  However, lenders should not overlook other aspects  of the VA program  
+that will help in underwriting loans for such borrowers. VA Credit Standards are written as 
+guidelines and are meant  to be interpreted  and used just that way,  taking into consideration all 
+of an individual loan borrower’s financial, employment and family circumstances.
+Purpose  of HMDA
+VA encourages underwriters to find ways to approve loan applications which ought to be 
+approved but may not appear  approvable upon  direct  application  of the credit standards.
+Underwriters are encouraged to give consideration to every possible appropriate  factor  in 
+seeking a proper basis  for approving loan applications  for every qualified Veteran.

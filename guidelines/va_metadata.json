@@ -1,0 +1,13 @@
+{
+  "last_checked": "2025-10-28T22:05:16.963832",
+  "file_hashes": {
+    "lenders_handbook": "8368e8bb79b8c346743c7944e89f35dde14be2920d9292fd8971f461273035ad",
+    "m26_1_manual": "5343327ecbb5db8f71466d1e8997b64164de134317b5004bca3d0a6688441346",
+    "credit_underwriting": "817ba684f2d543cf90f3e09979fcfd00a17c5da8742f62b2725968c4f13e42ea"
+  },
+  "sources": {
+    "lenders_handbook": "https://www.benefits.va.gov/warms/docs/admin26/m26-07/lender_handbook_va_pamphlet_complete.pdf",
+    "m26_1_manual": "https://www.benefits.va.gov/WARMS/docs/admin26/m26_01/Manual_M26_1.pdf",
+    "credit_underwriting": "https://benefits.va.gov/WARMS/docs/admin26/m26-07/chapter_4_credit_underwriting.pdf"
+  }
+}
