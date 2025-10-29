@@ -31,7 +31,7 @@ import {
   User,
   Menu,
 } from "lucide-react";
-import { useState, useRef } from "react";
+import { useState, useRef, useCallback } from "react";
 import { toast } from "sonner";
 
 export default function CalculatorOcrolus() {
@@ -39,6 +39,7 @@ export default function CalculatorOcrolus() {
   const [selectedLoan, setSelectedLoan] = useState<number | null>(null);
   const [uploadedFiles, setUploadedFiles] = useState<File[]>([]);
   const [extractedData, setExtractedData] = useState<any>(null);
+  const [isDragging, setIsDragging] = useState(false);
   const [configuration, setConfiguration] = useState({
     useTwoYearForms: true,
     employmentStartDate: "",
@@ -69,11 +70,7 @@ export default function CalculatorOcrolus() {
     },
   });
 
-  if (!isAuthenticated) {
-    window.location.href = getLoginUrl();
-    return null;
-  }
-
+  // Define all event handlers with useCallback
   const handleFileSelect = (event: React.ChangeEvent<HTMLInputElement>) => {
     const files = Array.from(event.target.files || []);
     setUploadedFiles((prev) => [...prev, ...files]);
@@ -83,6 +80,65 @@ export default function CalculatorOcrolus() {
   const handleUploadClick = () => {
     fileInputRef.current?.click();
   };
+
+  const handleDragOver = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setIsDragging(true);
+  }, []);
+
+  const handleDragLeave = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setIsDragging(false);
+  }, []);
+
+  const handleDrop = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setIsDragging(false);
+
+    const files = Array.from(e.dataTransfer.files).filter(file =>
+      file.type === 'application/pdf' ||
+      file.type.startsWith('image/')
+    );
+
+    if (files.length > 0) {
+      setUploadedFiles((prev) => [...prev, ...files]);
+      toast.success(`${files.length} file(s) uploaded`);
+    } else {
+      toast.error('Please upload PDF or image files only');
+    }
+  }, []);
+
+  // Show loading state while checking authentication
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center">
+        <div className="text-white text-xl">Loading...</div>
+      </div>
+    );
+  }
+
+  // Show login prompt if not authenticated
+  if (!isAuthenticated) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center">
+        <Card className="p-8 bg-slate-800 border-slate-700">
+          <div className="text-center space-y-4">
+            <h2 className="text-2xl font-bold text-white">Authentication Required</h2>
+            <p className="text-slate-300">Please sign in to access the income calculator</p>
+            <a
+              href={getLoginUrl()}
+              className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+            >
+              Sign In
+            </a>
+          </div>
+        </Card>
+      </div>
+    );
+  }
 
   const handleCalculate = async () => {
     if (!selectedLoan) {
@@ -226,10 +282,42 @@ export default function CalculatorOcrolus() {
                 onChange={handleFileSelect}
                 className="hidden"
               />
-              <Button onClick={handleUploadClick} className="bg-blue-600 hover:bg-blue-700">
-                <Upload className="mr-2 h-4 w-4" />
-                UPLOAD
-              </Button>
+            </div>
+          </div>
+
+          {/* Drag and Drop Zone */}
+          <div
+            onDragOver={handleDragOver}
+            onDragLeave={handleDragLeave}
+            onDrop={handleDrop}
+            onClick={handleUploadClick}
+            className={`mb-6 cursor-pointer transition-all duration-200 ${
+              isDragging
+                ? 'border-blue-500 bg-blue-500/10'
+                : 'border-slate-600 hover:border-slate-500 hover:bg-slate-800/30'
+            } border-2 border-dashed rounded-lg p-12`}
+          >
+            <div className="flex flex-col items-center justify-center gap-4 text-center">
+              <div className={`rounded-full p-4 ${
+                isDragging ? 'bg-blue-500/20' : 'bg-slate-700/50'
+              }`}>
+                <Upload className={`h-12 w-12 ${
+                  isDragging ? 'text-blue-400' : 'text-slate-400'
+                }`} />
+              </div>
+              <div>
+                <p className="text-lg font-semibold text-white mb-2">
+                  {isDragging ? 'Drop files here' : 'Drag and drop files here'}
+                </p>
+                <p className="text-sm text-slate-400">
+                  or click to browse • PDF, PNG, JPG, JPEG supported
+                </p>
+              </div>
+              {uploadedFiles.length > 0 && (
+                <Badge variant="outline" className="text-blue-400 border-blue-400">
+                  {uploadedFiles.length} file{uploadedFiles.length > 1 ? 's' : ''} uploaded
+                </Badge>
+              )}
             </div>
           </div>
 

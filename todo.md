@@ -155,3 +155,11 @@
 - [x] Create comprehensive Notion documentation (https://www.notion.so/29b0a1f74a2f813389c4f3abd6e85e7b)
 - [x] Document API endpoints and features in Notion
 - [x] Add user guide to Notion
+
+
+## Bug Fixes & New Features (User Requested)
+
+- [x] Fix login issue - calculator kicks user out after login (Fixed React hooks order)
+- [x] Replace UPLOAD button with drag-and-drop zone (Implemented with visual feedback)
+- [x] Test drag-and-drop functionality end-to-end (Working - accepts PDF, PNG, JPG, JPEG)
+- [x] Verify authentication persists on calculator page (Fixed - shows proper login prompt)
