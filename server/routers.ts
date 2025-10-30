@@ -8,6 +8,8 @@ import { storagePut } from "./storage";
 import { invokeLLM } from "./_core/llm";
 import { readFileSync } from "fs";
 import { join } from "path";
+import { performOCR, batchOCR, calculateTotalIncome, type OCRResult } from "./ocr";
+import { ocrRouter } from "./ocrRouter";
 
 // Load guideline data
 let guidelineData: any = null;
@@ -20,6 +22,7 @@ try {
 
 export const appRouter = router({
   system: systemRouter,
+  ocr: ocrRouter,
   
   auth: router({
     me: publicProcedure.query(opts => opts.ctx.user),
