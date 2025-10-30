@@ -111,34 +111,7 @@ export default function CalculatorOcrolus() {
     }
   }, []);
 
-  // Show loading state while checking authentication
-  if (loading) {
-    return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center">
-        <div className="text-white text-xl">Loading...</div>
-      </div>
-    );
-  }
-
-  // Show login prompt if not authenticated
-  if (!isAuthenticated) {
-    return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center">
-        <Card className="p-8 bg-slate-800 border-slate-700">
-          <div className="text-center space-y-4">
-            <h2 className="text-2xl font-bold text-white">Authentication Required</h2>
-            <p className="text-slate-300">Please sign in to access the income calculator</p>
-            <a
-              href={getLoginUrl()}
-              className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
-            >
-              Sign In
-            </a>
-          </div>
-        </Card>
-      </div>
-    );
-  }
+  // Calculator is now publicly accessible - no authentication required
 
   const handleCalculate = async () => {
     if (!selectedLoan) {
