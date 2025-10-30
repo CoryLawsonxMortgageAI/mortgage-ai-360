@@ -360,15 +360,19 @@ Format your response as JSON with these fields:
       }),
 
     // Calculate income for ALL guidelines simultaneously
-    calculateMultiGuideline: protectedProcedure
+    calculateMultiGuideline: publicProcedure
       .input(z.object({
-        loanId: z.number(),
+        loanId: z.number().optional(),
         documentNames: z.array(z.string()),
       }))
       .mutation(async ({ input, ctx }) => {
-        const loan = await db.getLoanById(input.loanId);
-        if (!loan || loan.userId !== ctx.user.id) {
-          throw new Error("Loan not found or access denied");
+        // Loan ID is optional for public access
+        let loan = null;
+        if (input.loanId && input.loanId > 0 && ctx.user) {
+          loan = await db.getLoanById(input.loanId);
+          if (loan && loan.userId !== ctx.user.id) {
+            throw new Error("Access denied to this loan");
+          }
         }
 
         // Generate unique report ID

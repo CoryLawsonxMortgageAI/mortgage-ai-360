@@ -114,18 +114,18 @@ export default function CalculatorOcrolus() {
   // Calculator is now publicly accessible - no authentication required
 
   const handleCalculate = async () => {
-    if (!selectedLoan) {
-      toast.error("Please select a loan first");
-      return;
-    }
     if (uploadedFiles.length === 0) {
       toast.error("Please upload at least one document");
       return;
     }
 
+    // Use selected loan or create a default one
+    const loanId = selectedLoan || 0; // 0 indicates no specific loan
     const documentNames = uploadedFiles.map((f) => f.name);
+    
+    toast.info("Calculating income for all loan types...");
     calculateMutation.mutate({
-      loanId: selectedLoan,
+      loanId,
       documentNames,
     });
   };
