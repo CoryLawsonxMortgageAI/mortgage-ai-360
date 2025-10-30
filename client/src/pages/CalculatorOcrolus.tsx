@@ -446,7 +446,7 @@ export default function CalculatorOcrolus() {
               {/* Calculate Button */}
               <Button
                 onClick={handleCalculate}
-                disabled={calculateMutation.isPending || !selectedLoan || uploadedFiles.length === 0}
+                disabled={calculateMutation.isPending || uploadedFiles.length === 0}
                 className="w-full bg-blue-600 hover:bg-blue-700 h-12 text-lg"
               >
                 {calculateMutation.isPending ? "Calculating..." : "Calculate Income for All Loan Types"}

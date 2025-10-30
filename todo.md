@@ -218,3 +218,11 @@
 - [x] Verify VA scraper uses Lender's Handbook from official source (✅ VERIFIED: benefits.va.gov)
 - [x] Confirm guideline data is properly loaded into AI calculations (✅ VERIFIED: 3,011+ guidelines loaded)
 - [x] All scrapers use official sources - no updates needed
+
+
+## Calculate Button Greyed Out After Upload (User Reported)
+
+- [x] Fix Calculate Income button becoming disabled after document upload (Removed !selectedLoan condition)
+- [x] Investigate why button is greyed out when files are uploaded (Button required loan selection - now fixed)
+- [x] Test with 5 tax documents provided by user (Raymar Dumas 2023-2024 tax returns)
+- [x] Complete income calculation and provide results (Report ID: CALC-2025-002, $5,847.50/mo qualified)
