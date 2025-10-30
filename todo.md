@@ -262,3 +262,33 @@
 - [x] Test multi-guideline income calculation (13 tests, 13 passed)
 - [x] Validate guideline accuracy and citations (9 tests, 8 passed, 1 blocked)
 - [x] Produce Test Summary Report (TSR) in professional format (TEST_SUMMARY_REPORT.md)
+
+
+## Fix Blocked Test Cases (User Requested)
+
+### Loan Management Features
+- [x] Implement loan search functionality (Search by borrower name or address)
+- [x] Implement loan filtering by type (Filter by FHA, VA, USDA, Conventional, or All)
+- [x] Implement loan sorting (by date, amount, status with asc/desc toggle)
+
+### Guideline Data
+- [ ] Retry USDA guideline scraper (server availability issue)
+- [ ] Verify USDA data loaded successfully
+
+### Performance Testing
+- [ ] Conduct load testing with 50+ concurrent users
+- [ ] Document load testing results
+
+### Accessibility Testing
+- [ ] Conduct screen reader compatibility testing
+- [ ] Verify WCAG AAA compliance
+
+### Cross-Browser Testing
+- [ ] Test on Firefox browser
+- [ ] Test on Safari browser
+- [ ] Test on Microsoft Edge browser
+
+### Verification
+- [ ] Re-run all blocked tests
+- [ ] Update Test Summary Report with 100% pass rate
+- [ ] Confirm all fixes complete

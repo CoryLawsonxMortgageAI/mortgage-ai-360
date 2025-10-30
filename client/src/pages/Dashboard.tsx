@@ -22,8 +22,8 @@ import {
 import { Badge } from "@/components/ui/badge";
 import { APP_LOGO, APP_TITLE, getLoginUrl } from "@/const";
 import { trpc } from "@/lib/trpc";
-import { AlertCircle, Calculator, FileText, Plus, TrendingUp } from "lucide-react";
-import { useState } from "react";
+import { AlertCircle, Calculator, FileText, Plus, TrendingUp, Search, Filter, ArrowUpDown } from "lucide-react";
+import { useState, useMemo } from "react";
 import { Link, useLocation } from "wouter";
 import { toast } from "sonner";
 
@@ -35,6 +35,12 @@ export default function Dashboard() {
   const [loanType, setLoanType] = useState<"FHA" | "VA" | "USDA" | "Conventional">("Conventional");
   const [loanAmount, setLoanAmount] = useState("");
   const [propertyAddress, setPropertyAddress] = useState("");
+  
+  // Search, Filter, Sort state
+  const [searchQuery, setSearchQuery] = useState("");
+  const [filterType, setFilterType] = useState<string>("all");
+  const [sortBy, setSortBy] = useState<"date" | "amount" | "status">("date");
+  const [sortOrder, setSortOrder] = useState<"asc" | "desc">("desc");
 
   const utils = trpc.useUtils();
   const { data: loans = [], isLoading } = trpc.loans.list.useQuery();
@@ -90,6 +96,45 @@ export default function Dashboard() {
       high: "destructive",
     };
     return <Badge variant={variants[risk] || "default"}>Risk: {risk}</Badge>;
+  };
+
+  // Filter, search, and sort loans
+  const filteredAndSortedLoans = useMemo(() => {
+    let result = [...loans];
+
+    // Search filter
+    if (searchQuery) {
+      result = result.filter((loan) =>
+        loan.borrowerName.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        loan.propertyAddress?.toLowerCase().includes(searchQuery.toLowerCase())
+      );
+    }
+
+    // Type filter
+    if (filterType !== "all") {
+      result = result.filter((loan) => loan.loanType === filterType);
+    }
+
+    // Sort
+    result.sort((a, b) => {
+      let comparison = 0;
+      
+      if (sortBy === "date") {
+        comparison = new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime();
+      } else if (sortBy === "amount") {
+        comparison = (a.loanAmount || 0) - (b.loanAmount || 0);
+      } else if (sortBy === "status") {
+        comparison = a.status.localeCompare(b.status);
+      }
+
+      return sortOrder === "asc" ? comparison : -comparison;
+    });
+
+    return result;
+  }, [loans, searchQuery, filterType, sortBy, sortOrder]);
+
+  const toggleSortOrder = () => {
+    setSortOrder(sortOrder === "asc" ? "desc" : "asc");
   };
 
   return (
@@ -246,7 +291,49 @@ export default function Dashboard() {
             <div className="text-center py-12">
               <p className="text-muted-foreground">Loading loans...</p>
             </div>
-          ) : loans.length === 0 ? (
+          ) : (
+            <>
+              {/* Search, Filter, Sort Controls */}
+              <div className="flex flex-col md:flex-row gap-4 mb-6">
+                <div className="flex-1 relative">
+                  <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+                  <Input
+                    placeholder="Search by borrower name or address..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="pl-10"
+                  />
+                </div>
+                <Select value={filterType} onValueChange={setFilterType}>
+                  <SelectTrigger className="w-full md:w-[180px]">
+                    <Filter className="mr-2 h-4 w-4" />
+                    <SelectValue placeholder="Filter by type" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">All Types</SelectItem>
+                    <SelectItem value="FHA">FHA</SelectItem>
+                    <SelectItem value="VA">VA</SelectItem>
+                    <SelectItem value="USDA">USDA</SelectItem>
+                    <SelectItem value="Conventional">Conventional</SelectItem>
+                  </SelectContent>
+                </Select>
+                <Select value={sortBy} onValueChange={(value) => setSortBy(value as "date" | "amount" | "status")}>
+                  <SelectTrigger className="w-full md:w-[180px]">
+                    <ArrowUpDown className="mr-2 h-4 w-4" />
+                    <SelectValue placeholder="Sort by" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="date">Date Created</SelectItem>
+                    <SelectItem value="amount">Loan Amount</SelectItem>
+                    <SelectItem value="status">Status</SelectItem>
+                  </SelectContent>
+                </Select>
+                <Button variant="outline" onClick={toggleSortOrder} className="w-full md:w-auto">
+                  {sortOrder === "asc" ? "↑ Ascending" : "↓ Descending"}
+                </Button>
+              </div>
+
+              {filteredAndSortedLoans.length === 0 ? (
             <Card className="text-center py-12">
               <CardContent>
                 <FileText className="h-12 w-12 mx-auto mb-4 text-muted-foreground" />
@@ -260,9 +347,9 @@ export default function Dashboard() {
                 </Button>
               </CardContent>
             </Card>
-          ) : (
-            <div className="grid gap-4">
-              {loans.map((loan) => (
+              ) : (
+                <div className="grid gap-4">
+                  {filteredAndSortedLoans.map((loan) => (
                 <Card key={loan.id} className="hover:shadow-md transition-shadow">
                   <CardHeader>
                     <div className="flex items-start justify-between">
@@ -317,8 +404,11 @@ export default function Dashboard() {
                     </div>
                   </CardContent>
                 </Card>
-              ))}
-            </div>
+                  ))}
+                </div>
+              )
+            }
+            </>
           )}
         </div>
       </main>
