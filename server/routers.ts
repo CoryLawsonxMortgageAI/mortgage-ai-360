@@ -434,8 +434,8 @@ Documents Provided:
 ${input.documentNames.map((name, idx) => `${idx + 1}. ${name}`).join("\n")}
 
 Loan Details:
-- Loan Amount: $${loan.loanAmount}
-- Property Address: ${loan.propertyAddress || "N/A"}
+- Loan Amount: $${loan?.loanAmount || "Not specified"}
+- Property Address: ${loan?.propertyAddress || "N/A"}
 
 Based on the ${loanType.name} guidelines and the document names provided, provide:
 1. Estimated Qualified Income (be conservative)

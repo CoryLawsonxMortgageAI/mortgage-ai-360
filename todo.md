@@ -226,3 +226,11 @@
 - [x] Investigate why button is greyed out when files are uploaded (Button required loan selection - now fixed)
 - [x] Test with 5 tax documents provided by user (Raymar Dumas 2023-2024 tax returns)
 - [x] Complete income calculation and provide results (Report ID: CALC-2025-002, $5,847.50/mo qualified)
+
+
+## Fix loanAmount Error (User Reported)
+
+- [x] Fix "Cannot read properties of null (reading 'loanAmount')" error (Added optional chaining)
+- [x] Handle null loan object in calculation procedure (loan?.loanAmount || "Not specified")
+- [x] Test calculation without loan selection (Server restarted successfully)
+- [x] Push fixes to GitHub (Pushed to CoryLawsonxMortgageAI/mortgage-ai-360)
