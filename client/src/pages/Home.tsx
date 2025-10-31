@@ -1,29 +1,15 @@
 import { useAuth } from "@/_core/hooks/useAuth";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { APP_LOGO, APP_TITLE, getLoginUrl } from "@/const";
+import { APP_LOGO, APP_TITLE } from "@/const";
 import { ArrowRight, Calculator, FileCheck, Shield, TrendingUp, Zap } from "lucide-react";
 import { Link } from "wouter";
 
 export default function Home() {
-  const { user, isAuthenticated } = useAuth();
-  const isOAuthConfigured = import.meta.env.VITE_OAUTH_PORTAL_URL && import.meta.env.VITE_APP_ID;
+  const { user, isAuthenticated, login } = useAuth();
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* OAuth Configuration Notice */}
-      {!isOAuthConfigured && (
-        <div className="bg-amber-50 border-b border-amber-200 py-3">
-          <div className="container">
-            <div className="flex items-center gap-2 text-amber-900 text-sm">
-              <Shield className="h-4 w-4" />
-              <span className="font-medium">OAuth Configuration Required:</span>
-              <span>Set VITE_OAUTH_PORTAL_URL and VITE_APP_ID environment variables to enable authentication.</span>
-            </div>
-          </div>
-        </div>
-      )}
-
       {/* Header */}
       <header className="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50">
         <div className="container flex h-16 items-center justify-between">
@@ -43,12 +29,8 @@ export default function Home() {
               </>
             ) : (
               <>
-                <a href={getLoginUrl()}>
-                  <Button variant="ghost">Sign In</Button>
-                </a>
-                <a href={getLoginUrl()}>
-                  <Button className="gradient-bg">Get Started</Button>
-                </a>
+                <Button variant="ghost" onClick={login}>Sign In</Button>
+                <Button className="gradient-bg" onClick={login}>Get Started</Button>
               </>
             )}
           </nav>
@@ -67,17 +49,30 @@ export default function Home() {
               consistency, confidence, and compliance into every loan before it hits underwriting.
             </p>
             <div className="flex flex-wrap gap-4">
-              <a href={isAuthenticated ? "/calculator" : getLoginUrl()}>
-                <Button size="lg" className="bg-white text-purple-700 hover:bg-white/90">
+              {isAuthenticated ? (
+                <Link href="/calculator">
+                  <Button size="lg" className="bg-white text-purple-700 hover:bg-white/90">
+                    Calculate Income Now
+                    <ArrowRight className="ml-2 h-5 w-5" />
+                  </Button>
+                </Link>
+              ) : (
+                <Button size="lg" className="bg-white text-purple-700 hover:bg-white/90" onClick={login}>
                   Calculate Income Now
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
-              </a>
-              <a href={isAuthenticated ? "/dashboard" : getLoginUrl()}>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+              )}
+              {isAuthenticated ? (
+                <Link href="/dashboard">
+                  <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+                    View Dashboard
+                  </Button>
+                </Link>
+              ) : (
+                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10" onClick={login}>
                   View Dashboard
                 </Button>
-              </a>
+              )}
             </div>
           </div>
         </div>
@@ -281,12 +276,19 @@ export default function Home() {
             Join leading lenders who trust Mortgage AI 360 to make their job easier and enhance
             the borrower experience.
           </p>
-          <a href={isAuthenticated ? "/calculator" : getLoginUrl()}>
-            <Button size="lg" className="bg-white text-purple-700 hover:bg-white/90">
+          {isAuthenticated ? (
+            <Link href="/calculator">
+              <Button size="lg" className="bg-white text-purple-700 hover:bg-white/90">
+                Get Started Now
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </Button>
+            </Link>
+          ) : (
+            <Button size="lg" className="bg-white text-purple-700 hover:bg-white/90" onClick={login}>
               Get Started Now
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-          </a>
+          )}
         </div>
       </section>
 

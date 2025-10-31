@@ -1,4 +1,4 @@
-import { integer, pgEnum, pgTable, text, timestamp, varchar } from "drizzle-orm/pg-core";
+import { integer, pgEnum, pgTable, text, timestamp, varchar, jsonb, index } from "drizzle-orm/pg-core";
 
 export const roleEnum = pgEnum("role", ["user", "admin"]);
 export const loanTypeEnum = pgEnum("loanType", ["FHA", "VA", "USDA", "Conventional"]);
@@ -14,6 +14,19 @@ export const documentCategoryEnum = pgEnum("documentCategory", [
   "other"
 ]);
 export const guidelineSourceEnum = pgEnum("source", ["FHA", "VA", "USDA", "FannieMae", "FreddieMac"]);
+export const auditActionEnum = pgEnum("auditAction", [
+  "login",
+  "logout",
+  "view_loan",
+  "create_loan",
+  "update_loan",
+  "delete_loan",
+  "view_document",
+  "upload_document",
+  "delete_document",
+  "view_pii",
+  "export_data"
+]);
 
 /**
  * Core user table backing auth flow.
@@ -93,7 +106,7 @@ export type InsertDocument = typeof documents.$inferInsert;
  */
 export const incomeCalculations = pgTable("incomeCalculations", {
   id: integer("id").primaryKey().generatedAlwaysAsIdentity(),
-  reportId: varchar("reportId", { length: 20 }).notNull().unique(),
+  reportId: varchar("reportId", { length: 50 }),
   loanId: integer("loanId").notNull(),
   userId: integer("userId").notNull(),
   loanType: loanTypeEnum("loanType").notNull(),
@@ -135,3 +148,42 @@ export const guidelineCache = pgTable("guidelineCache", {
 
 export type GuidelineCache = typeof guidelineCache.$inferSelect;
 export type InsertGuidelineCache = typeof guidelineCache.$inferInsert;
+
+/**
+ * Session storage table for Replit Auth
+ * SECURITY: Stores encrypted session data in database (not memory)
+ * Required for compliance and multi-instance deployments
+ */
+export const sessions = pgTable(
+  "sessions",
+  {
+    sid: varchar("sid", { length: 255 }).primaryKey(),
+    sess: jsonb("sess").notNull(),
+    expire: timestamp("expire").notNull(),
+  },
+  (table) => [index("IDX_session_expire").on(table.expire)]
+);
+
+export type Session = typeof sessions.$inferSelect;
+export type InsertSession = typeof sessions.$inferInsert;
+
+/**
+ * Audit log table for compliance tracking
+ * SECURITY: Tracks all access to sensitive data (SSNs, DOBs, PII)
+ * Required for financial services compliance (SOC 2, GLBA, etc.)
+ */
+export const auditLogs = pgTable("auditLogs", {
+  id: integer("id").primaryKey().generatedAlwaysAsIdentity(),
+  userId: integer("userId"),
+  userEmail: varchar("userEmail", { length: 320 }),
+  action: auditActionEnum("action").notNull(),
+  resourceType: varchar("resourceType", { length: 50 }),
+  resourceId: varchar("resourceId", { length: 50 }),
+  ipAddress: varchar("ipAddress", { length: 45 }),
+  userAgent: text("userAgent"),
+  metadata: jsonb("metadata"),
+  timestamp: timestamp("timestamp").defaultNow().notNull(),
+});
+
+export type AuditLog = typeof auditLogs.$inferSelect;
+export type InsertAuditLog = typeof auditLogs.$inferInsert;

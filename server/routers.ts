@@ -10,6 +10,7 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import { performOCR, batchOCR, calculateTotalIncome, type OCRResult } from "./ocr";
 import { ocrRouter } from "./ocrRouter";
+import { generateProfessionalReport } from "./reportGenerator";
 
 // Load guideline data
 let guidelineData: any = null;
