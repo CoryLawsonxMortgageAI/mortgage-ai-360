@@ -7,9 +7,23 @@ import { Link } from "wouter";
 
 export default function Home() {
   const { user, isAuthenticated } = useAuth();
+  const isOAuthConfigured = import.meta.env.VITE_OAUTH_PORTAL_URL && import.meta.env.VITE_APP_ID;
 
   return (
     <div className="min-h-screen flex flex-col">
+      {/* OAuth Configuration Notice */}
+      {!isOAuthConfigured && (
+        <div className="bg-amber-50 border-b border-amber-200 py-3">
+          <div className="container">
+            <div className="flex items-center gap-2 text-amber-900 text-sm">
+              <Shield className="h-4 w-4" />
+              <span className="font-medium">OAuth Configuration Required:</span>
+              <span>Set VITE_OAUTH_PORTAL_URL and VITE_APP_ID environment variables to enable authentication.</span>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Header */}
       <header className="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50">
         <div className="container flex h-16 items-center justify-between">
