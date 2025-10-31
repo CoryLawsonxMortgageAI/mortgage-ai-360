@@ -33,6 +33,7 @@ import {
 } from "lucide-react";
 import { useState, useRef, useCallback } from "react";
 import { toast } from "sonner";
+import BynnVerification from "@/components/BynnVerification";
 
 export default function CalculatorOcrolus() {
   const { user, loading, isAuthenticated } = useAuth();
@@ -47,6 +48,8 @@ export default function CalculatorOcrolus() {
     includeBorrowerIncome: true,
   });
   const [lockedFields, setLockedFields] = useState<Set<string>>(new Set());
+  const [showBynnVerification, setShowBynnVerification] = useState(false);
+  const [verificationSessionId, setVerificationSessionId] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const { data: loans = [] } = trpc.loans.list.useQuery();
@@ -451,6 +454,14 @@ export default function CalculatorOcrolus() {
               >
                 {calculateMutation.isPending ? "Calculating..." : "Calculate Income for All Loan Types"}
               </Button>
+              
+              <Button
+                onClick={() => setShowBynnVerification(true)}
+                variant="outline"
+                className="w-full h-12 text-lg border-2"
+              >
+                Verify Documents with Bynn
+              </Button>
             </div>
 
             {/* Right Column - Configuration & Results */}
@@ -637,6 +648,57 @@ export default function CalculatorOcrolus() {
           )}
         </main>
       </div>
+      
+      {/* Bynn Verification Modal */}
+      {showBynnVerification && (
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+          <div className="bg-white rounded-lg max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+            <div className="p-6">
+              <div className="flex items-center justify-between mb-6">
+                <h2 className="text-2xl font-bold text-gray-900">Document Verification</h2>
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  onClick={() => setShowBynnVerification(false)}
+                  className="text-gray-500 hover:text-gray-700"
+                >
+                  Close
+                </Button>
+              </div>
+              
+              {verificationSessionId ? (
+                <div className="bg-green-50 border border-green-200 rounded-lg p-6 text-center">
+                  <CheckCircle className="h-12 w-12 text-green-600 mx-auto mb-4" />
+                  <h3 className="text-lg font-semibold text-green-900 mb-2">Verification Complete</h3>
+                  <p className="text-sm text-green-700 mb-4">Session ID: {verificationSessionId}</p>
+                  <Button
+                    onClick={() => {
+                      setShowBynnVerification(false);
+                      toast.success("Documents verified successfully");
+                    }}
+                    className="bg-green-600 hover:bg-green-700"
+                  >
+                    Continue
+                  </Button>
+                </div>
+              ) : (
+                <BynnVerification
+                  onVerificationComplete={(sessionId) => {
+                    setVerificationSessionId(sessionId);
+                    toast.success("Verification completed successfully");
+                  }}
+                  onVerificationError={(error) => {
+                    toast.error("Verification failed. Please try again.");
+                    console.error("Bynn verification error:", error);
+                  }}
+                  userEmail={user?.email || undefined}
+                  uniqueId={selectedLoan?.toString() || undefined}
+                />
+              )}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
