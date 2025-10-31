@@ -499,30 +499,32 @@ Format your response as JSON with these fields:
               analysis: analysis.analysis,
             });
 
-            // Save each calculation to database
-            await db.createIncomeCalculation({
-              loanId: input.loanId,
-              userId: ctx.user.id,
-              loanType: loanType.type,
-              reportId,
-              qualifiedIncome: analysis.qualifiedIncome,
-              backEndRatio: analysis.backEndRatio,
-              riskLevel: analysis.riskLevel,
-              analysis: analysis.analysis,
-              warnings: JSON.stringify(analysis.warnings),
-              guidelineCitations: JSON.stringify(citations),
-              documentsReviewed: JSON.stringify(input.documentNames),
-              baseIncome: null,
-              overtimeIncome: null,
-              bonusIncome: null,
-              commissionIncome: null,
-              rentalIncome: null,
-              businessIncome: null,
-              otherIncome: null,
-              monthlyDebt: null,
-              frontEndRatio: null,
-              missingDocuments: null,
-            });
+            // Save each calculation to database (only if user is authenticated and loanId exists)
+            if (ctx.user && input.loanId) {
+              await db.createIncomeCalculation({
+                loanId: input.loanId,
+                userId: ctx.user.id,
+                loanType: loanType.type,
+                reportId,
+                qualifiedIncome: analysis.qualifiedIncome,
+                backEndRatio: analysis.backEndRatio,
+                riskLevel: analysis.riskLevel,
+                analysis: analysis.analysis,
+                warnings: JSON.stringify(analysis.warnings),
+                guidelineCitations: JSON.stringify(citations),
+                documentsReviewed: JSON.stringify(input.documentNames),
+                baseIncome: null,
+                overtimeIncome: null,
+                bonusIncome: null,
+                commissionIncome: null,
+                rentalIncome: null,
+                businessIncome: null,
+                otherIncome: null,
+                monthlyDebt: null,
+                frontEndRatio: null,
+                missingDocuments: null,
+              });
+            }
           } catch (error) {
             console.error(`Error calculating for ${loanType.name}:`, error);
             // Add error result
